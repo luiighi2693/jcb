@@ -2875,6 +2875,15 @@ footer ul a:visited {
   font-family: DIN-light, serif;
 }
 
+.jcbFontBold{
+  /*color: #ffffff !important;*/
+  font-family: DIN-bold, serif;
+}
+
+.hatunFontWithoutColor{
+  font-family: DIN-light, serif;
+}
+
 .hatunFont2{
   color: #ffffff !important;
   font-family: Berthold-Akzidenz-Grotesk, serif;
@@ -3054,7 +3063,7 @@ video {
 }
 
 .hatunDropDown:hover{
-  color: #fff !important;
+  color: blue !important;
 }
 
 @media (max-width: 768px) {
