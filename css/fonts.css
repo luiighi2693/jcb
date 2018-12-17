@@ -171,6 +171,11 @@
 }
 
 @font-face {
+  font-family: "DIN-medium";
+  src: url("../fonts/muli/DINMd.woff2") format("opentype");
+}
+
+@font-face {
   font-family: "DINBk";
   src: url("../fonts/muli/DINBk.woff2") format("opentype");
 }

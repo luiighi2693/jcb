@@ -2591,7 +2591,7 @@ footer a:focus {
 
 footer h4 {
   color: white;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   padding-bottom: 2.4rem;
   margin-bottom: 2.4rem;
   position: relative;
@@ -2878,6 +2878,11 @@ footer ul a:visited {
 .jcbFontBold{
   /*color: #ffffff !important;*/
   font-family: DIN-bold, serif;
+}
+
+.jcbFontMedium{
+  /*color: #ffffff !important;*/
+  font-family: DIN-medium, serif;
 }
 
 .hatunFontWithoutColor{
