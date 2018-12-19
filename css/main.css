@@ -3079,3 +3079,11 @@ video {
     font-size: 3.5rem;
   }
 }
+
+.jcbCustomBackground1 {
+  background-image: url("../images/jcb/fondo_azul.png");
+}
+
+.jcbCustomBackground2 {
+  background-image: url("../images/jcb/fondo_celeste.png");
+}

@@ -10,11 +10,18 @@
             <li id="dropDownParentList" class="current">
                 <a class="hatunFont dropdown-toggle"  href="#" title="testimonials" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="    font-weight: bold;">nosotros</a>
                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton" style="    top: 75px !important; background-color: #ffffff; left: 40px;">
-                    <a id="solicitud" class="dropdown-item hatunFont hatunDropDown" href="#" style="text-decoration: none;     font-weight: bold;">quiénes somos</a>
-                    <a id="seguimiento" class="dropdown-item hatunFont hatunDropDown" href="#" style="padding-bottom: 5%; text-decoration: none;     font-weight: bold;">visión</a>
+                    <a class="dropdown-item hatunFont hatunDropDown" href="#" style="text-decoration: none;     font-weight: bold;">quiénes somos</a>
+                    <a class="dropdown-item hatunFont hatunDropDown" href="#" style="padding-bottom: 5%; text-decoration: none;     font-weight: bold;">visión</a>
                 </div>
             </li>
-            <li class="hatunFont" style="    font-weight: bold;"><a class="hatunFont"  href="#" title="home">instalaciones</a></li>
+            <!--<li class="hatunFont" style="    font-weight: bold;"><a class="hatunFont"  href="#" title="home">instalaciones</a></li>-->
+            <li id="dropDownParentList2" class="current">
+                <a class="hatunFont dropdown-toggle"  href="#" title="testimonials" role="button" id="dropdownMenuLink2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="    font-weight: bold;">instalaciones</a>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton" style="    top: 75px !important; background-color: #ffffff; left: 135px;">
+                    <a class="dropdown-item hatunFont hatunDropDown" href="#" style="text-decoration: none;     font-weight: bold;">nuestra planta</a>
+                    <a class="dropdown-item hatunFont hatunDropDown" href="#" style="padding-bottom: 5%; text-decoration: none;     font-weight: bold;">transporte &<br> maquinaria</a>
+                </div>
+            </li>
             <li class="hatunFont" style="    font-weight: bold;"><a class="hatunFont"  href="#" title="home">proyectos</a></li>
             <li class="hatunFont" style="    font-weight: bold;"><a class="hatunFont"  href="#" title="home">clientes</a></li>
             <li class="hatunFont" style="    font-weight: bold;"><a class="hatunFont"  href="#" title="home">proveedores</a></li>
@@ -43,6 +50,12 @@
 <script src="../js/main.js"></script>
 <script>
     $('#dropdownMenuLink').on('mouseover', function() {
+        $('#dropDownParentList2').removeClass('open');
         $('#dropDownParentList').addClass('open');
+    });
+
+    $('#dropdownMenuLink2').on('mouseover', function() {
+        $('#dropDownParentList').removeClass('open');
+        $('#dropDownParentList2').addClass('open');
     });
 </script>
