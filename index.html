@@ -67,12 +67,12 @@
 
         <section id="nosotros0" style="background-color: black;">
             <div style="display: flex;">
-                <video id="videoPreview"  autoplay="autoplay" width="1920" height="1080" style="width: 100%; height: auto; margin-top: 90px;">
+                <video id="videoPreview"  autoplay="autoplay" loop="loop" style="width: 100%; height: auto;     margin-top: -15%; margin-bottom: -15%;">
                     <source src=videos/intro_jcb.mp4 type=video/mp4>
                 </video>
             </div>
             <div class="hatunVideoButton">
-                <button id="hideGiffButton" class="hatunFont" style="font-size: 1em; border: 1px solid; border-radius: 0; background-color: transparent;
+                <button id="hideGiffButton" class="hatunFont" style="font-size: 1em; border: none; background-color: transparent;
                 height: 3.4rem;line-height: calc(3.4rem - .6rem);padding: 0 3rem;">SALTAR</button>
             </div>
         </section>
@@ -129,11 +129,11 @@
                     // $('#valoresImage')
                     //     .width($(window).width().toString())
                     //     .height( ($(window).height() + 70).toString());
-                    $('#videoPreview')
-                        .width($(window).width().toString())
-                        .height( ($(window).height()).toString() - 90);
+                    // $('#videoPreview')
+                    //     .width($(window).width().toString())
+                    //     .height( ($(window).height()).toString() - 90);
 
-                    $('#blank').height(90);
+                    // $('#blank').height(90);
                     $('#dropDownParentList').css('display', 'inline-block');
                     $('#creditMobile').css('display', 'none');
                 }

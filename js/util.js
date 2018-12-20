@@ -31,3 +31,11 @@ function goToCustom(section) {
 function checkIfMobile() {
     return $('html body').width() <= 768;
 }
+
+function checkNavegation() {
+    if (window.location.href.indexOf('#') !== -1) {
+        if (window.location.href.split('#')[1].length !== 0) {
+            goTo(window.location.href.split('#')[1]);
+        }
+    }
+}
