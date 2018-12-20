@@ -8,7 +8,7 @@
         <ul class="header-main-nav">
             <li class="hatunFont" style="    font-weight: bold;"><a class="hatunFont"  href="../index.html" title="home">inicio</a></li>
             <li id="dropDownParentList" class="current">
-                <a class="hatunFont"  href="../nosotros.html" title="testimonials" role="button" id="dropdownMenuLink" style="    font-weight: bold;">nosotros</a>
+                <a class="hatunFont"  href="../nosotros.html" title="testimonials" role="button"  style="    font-weight: bold;">nosotros</a>
                 <div id="dropdownMenuLinkContent" class="dropdown-menu" aria-labelledby="dropdownMenuButton" style="    top: 75px !important; background-color: #ffffff; left: 40px;">
                     <a class="dropdown-item hatunFont hatunDropDown" href="../nosotros.html#nosotros2" style="text-decoration: none;     font-weight: bold;">quiénes somos</a>
                     <a class="dropdown-item hatunFont hatunDropDown" href="../nosotros.html#nosotros5" style="padding-bottom: 5%; text-decoration: none;     font-weight: bold;">visión</a>
@@ -49,21 +49,29 @@
 <script src="../js/plugins.js"></script>
 <script src="../js/main.js"></script>
 <script>
-    $('#dropdownMenuLink').on('mouseover', function() {
+    $('#dropDownParentList').on('mouseover', function() {
         $('#dropDownParentList2').removeClass('open');
         $('#dropDownParentList').addClass('open');
     });
 
-    $('#dropdownMenuLink2').on('mouseover', function() {
+    $('#dropDownParentList2').on('mouseover', function() {
         $('#dropDownParentList').removeClass('open');
         $('#dropDownParentList2').addClass('open');
     });
 
-    $('#dropdownMenuLinkContent').on('mouseleave', function() {
+    // $('#dropdownMenuLinkContent').on('mouseleave', function() {
+    //     $('#dropDownParentList').removeClass('open');
+    // });
+    //
+    // $('#dropdownMenuLinkContent2').on('mouseleave', function() {
+    //     $('#dropDownParentList2').removeClass('open');
+    // });
+
+    $('#dropDownParentList').on('mouseleave', function() {
         $('#dropDownParentList').removeClass('open');
     });
 
-    $('#dropdownMenuLinkContent2').on('mouseleave', function() {
+    $('#dropDownParentList2').on('mouseleave', function() {
         $('#dropDownParentList2').removeClass('open');
     });
 </script>
