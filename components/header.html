@@ -22,10 +22,20 @@
                     <a class="dropdown-item hatunFont hatunDropDown" href="../transporte.html" style="padding-bottom: 5%; text-decoration: none;     font-weight: bold;">transporte &<br> maquinaria</a>
                 </div>
             </li>
-            <li class="hatunFont" style="    font-weight: bold;"><a class="hatunFont"  href="#" title="home">proyectos</a></li>
+            <!--<li class="hatunFont" style="    font-weight: bold;"><a class="hatunFont"  href="#" title="home">proyectos</a></li>-->
+            <li id="dropDownParentList3" class="current">
+                <a class="hatunFont"  href="#" title="testimonials" role="button" id="dropdownMenuLink3" style="    font-weight: bold;">proyectos</a>
+                <div id="dropdownMenuLinkContent3" class="dropdown-menu" aria-labelledby="dropdownMenuButton" style="    top: 75px !important; background-color: #ffffff; left: 270px;">
+                    <a id="retailLink" class="dropdown-item hatunFont hatunDropDown" href="../retail.html" style="text-decoration: none;     font-weight: bold;">retail</a>
+                    <a id="industrialLink" class="dropdown-item hatunFont hatunDropDown" href="../industrial.html" style="text-decoration: none;     font-weight: bold;">industrial</a>
+                    <a id="energiayminasLink" class="dropdown-item hatunFont hatunDropDown" href="../energiayminas.html" style="text-decoration: none;     font-weight: bold;">energía y minas</a>
+                    <a id="vialLink" class="dropdown-item hatunFont hatunDropDown" href="../vial.html" style="text-decoration: none;     font-weight: bold;">vial</a>
+                    <a id="edificacionLink" class="dropdown-item hatunFont hatunDropDown" href="../edificacion.html" style="text-decoration: none;     font-weight: bold;">edificación</a>
+                </div>
+            </li>
             <li class="hatunFont" style="    font-weight: bold;"><a class="hatunFont"  href="#" title="home">clientes</a></li>
             <li class="hatunFont" style="    font-weight: bold;"><a class="hatunFont"  href="#" title="home">proveedores</a></li>
-            <li class="hatunFont" style="    font-weight: bold;"><a class="hatunFont"  href="#" title="home">contactos</a></li>
+            <li class="hatunFont" style="    font-weight: bold;"><a class="hatunFont"  href="../contacto.html" title="home">contactos</a></li>
 
             <!--<li class="hatunFont"><a class="hatunFont"  href="home.html" title="home">INICIO</a></li>-->
             <!--<li class="hatunFont"><a href="marcas.html" title="Marks" class="hatunFont">MARCAS</a></li>-->
@@ -51,12 +61,20 @@
 <script>
     $('#dropDownParentList').on('mouseover', function() {
         $('#dropDownParentList2').removeClass('open');
+        $('#dropDownParentList3').removeClass('open');
         $('#dropDownParentList').addClass('open');
     });
 
     $('#dropDownParentList2').on('mouseover', function() {
         $('#dropDownParentList').removeClass('open');
+        $('#dropDownParentList3').removeClass('open');
         $('#dropDownParentList2').addClass('open');
+    });
+
+    $('#dropDownParentList3').on('mouseover', function() {
+        $('#dropDownParentList').removeClass('open');
+        $('#dropDownParentList2').removeClass('open');
+        $('#dropDownParentList3').addClass('open');
     });
 
     // $('#dropdownMenuLinkContent').on('mouseleave', function() {
@@ -74,4 +92,20 @@
     $('#dropDownParentList2').on('mouseleave', function() {
         $('#dropDownParentList2').removeClass('open');
     });
+
+    validateLinkHeader();
+
+    function validateLinkHeader() {
+        if (window.location.toString().match(/retail/)) {
+            $('#retailLink').css('cssText', 'color: rgb(105, 169, 105) !important');
+        } else if (window.location.toString().match(/industrial/)) {
+            $('#industrialLink').css('cssText', 'color: rgb(105, 169, 105) !important');
+        } else if (window.location.toString().match(/energiayminas/)) {
+            $('#energiayminasLink').css('cssText', 'color: rgb(105, 169, 105) !important');
+        } else if (window.location.toString().match(/vial/)) {
+            $('#vialLink').css('cssText', 'color: rgb(105, 169, 105) !important');
+        } else if (window.location.toString().match(/edificacion/)) {
+            $('#edificacionLink').css('cssText', 'color: rgb(105, 169, 105) !important');
+        }
+    }
 </script>

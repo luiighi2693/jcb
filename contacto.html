@@ -5,10 +5,13 @@
 <html class="no-js" lang="en">
 <!--<![endif]-->
 
+
+<!-- Mirrored from demos.onepagelove.com/html/dazzle/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Aug 2018 01:47:49 GMT -->
 <head>
 
+<!-- OPL Demos Google Analytics -->
 <script>
-    // (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+// (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     // (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     // m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     // })(window,document,'script','../../../www.google-analytics.com/analytics.js','ga');
@@ -17,8 +20,10 @@
 </script>
 
 
+    <!--- basic page needs
+   ================================================== -->
     <meta charset="utf-8">
-    <title>Hatun</title>
+    <title>JCB</title>
     <meta name="robots" content="noindex, nofollow" />
     <meta name="description" content="">
     <meta name="author" content="">
@@ -38,98 +43,97 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 
+    <style>
+        #map {
+            height: 100%;
+        }
+    </style>
+
 </head>
 
-<body id="top">
+<body id="top" onresize="resizeScreen()">
+    <div id="headerComponent"></div>
 
-<div id="headerComponent"></div>
+    <div id="mainContent">
+        <section style="padding-top: 10%;    padding-left: 3%;">
+            <h1 style="color: #03314b; font-weight: bold">CONTÁCTANOS</h1>
+        </section>
 
-    <section id="blank" style="height: 72px;">
-        this is a demo
-    </section>
-
-    <section id="equipo" style="background-color: black;">
-        <div style="display: flex;">
-            <img name="equipoImage" src="images/hatun/trabaja_con_nosotros.jpg" width="2500" height="1080" border="0" id="equipoImage" alt="" style="width: 100%; height: auto;"/>
-
-            <div class="home-scrolldown" style="right: 48% !important;">
-                <a href="#contacto" class="scroll-icon" id="equipoArea">
-                    <img src="images/hatun/yellow_row.png" width="25px" height="25px" style="transform: rotate(30deg);">
-                </a>
-            </div>
-            <!--<map name="m_equipoImage" id="m_equipoImage">-->
-                <!--<area id="equipoArea" shape="poly" coords="1227,979,1271,977,1248,1028" title="Equipo" alt="Equipo" />-->
-            <!--</map>-->
-        </div>
-    </section>
-
-    <section id="contacto" class="contactoWithoutForm">
-        <img name="marcas_hatunsolImage" id="mejorEquipo" src="images/hatun/texto_trabaja.png" border="0" style="max-width: 100%; height: 100%;width: 55%;margin-top: 1%;"/>
-        <!--<div style="padding-top: 30px;">-->
-            <!--<div class="hatunFont hatunCasaFontTitle2" style="color: black !important; font-size: 3rem; font-weight: 100; padding-left: 5%; line-height: 1.5;">SE PARTE DE NUESTRO EQUIPO,</div>-->
-            <!--<div class="hatunFont hatunCasaFontTitle2" style="color: black !important; font-size: 3rem; font-weight: 100; padding-left: 5%; line-height: 1.5;">D&Eacute;JANOS TUS DATOS</div>-->
-        <!--</div>-->
-    </section>
-
-    <section id="contacto2" class="contacto">
-        <div style="display: flex;">
-            <div style="width:30%; line-height: 1; padding-top: 15%;">
-            </div>
-            <div style="width: 70%; padding-right: 10%">
-                <input type="text" placeholder="NOMBRE Y APELLIDOS" style="    background-color: white; width: 100%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0;"/>
-                <div style="display: flex;">
-                    <input type="text" placeholder="DNI" style="    background-color: white; width: 47%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0; margin-top: 3%;"/>
-                    <input type="text" placeholder="CELULAR" style="    background-color: white; width: 48%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0; margin-top: 3%; margin-left: 5%;"/>
+        <section id="contacto2" class="contacto" >
+            <div style="display: flex;">
+                <div style="width:40%; line-height: 1;     padding: 0 2% 2% 2%;">
+                    <div id="map"></div>
                 </div>
-                <input type="text" placeholder="DIRECCIÓN" style="    background-color: white; width: 100%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0; margin-top: 3%;"/>
-                <div style="display: flex;">
-                    <input type="text" placeholder="DISTRITO" style="    background-color: white; width: 47%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0; margin-top: 3%;"/>
-                    <input type="text" placeholder="E-MAIL" style="    background-color: white; width: 48%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0; margin-top: 3%; margin-left: 5%;"/>
+                <div style="width: 60%; padding-right: 10%">
+                    <input type="text" placeholder="NOMBRE Y APELLIDOS" style="    background-color: white; width: 100%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0;"/>
+                    <div style="display: flex;">
+                        <input type="text" placeholder="DNI" style="    background-color: white; width: 47%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0; margin-top: 3%;"/>
+                        <input type="text" placeholder="CELULAR" style="    background-color: white; width: 48%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0; margin-top: 3%; margin-left: 5%;"/>
+                    </div>
+                    <input type="text" placeholder="CORREO ELECTRÓNICO" style="    background-color: white; width: 100%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0; margin-top: 3%;"/>
+                    <textarea rows="6" placeholder="MENSAJE" style="    background-color: white; width: 100%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0; margin-top: 3%;"></textarea>
+                    <a href="#"><img src="images/hatun/enviar.png" style="    width: 200px; float: right; margin-left: auto; margin-right: auto; display: block;"/></a>
                 </div>
-                <input type="text" placeholder="ADJUNTA TU CV" style="    background-color: white; width: 47%; height: 4rem; border: 1px solid; border-radius: 0; margin-top: 3%; margin-bottom: 5%;"/>
-                <a href="#"><img src="images/hatun/enviar.png" style="    width: 200px; float: right; margin-left: auto; margin-right: auto; display: block;"/></a>
             </div>
-        </div>
-    </section>
-
-    <div id="preloader">
-    	<div id="loader"></div>
+        </section>
     </div>
 
-<div id="footerComponent"></div>
+    <div id="footerComponent" style="margin-top: 5rem;"></div>
 
-<script src="js/jquery-2.1.3.min.js"></script>
-<script src="js/jquery.rwdImageMaps.min.js"></script>
-<script src="js/util.js"></script>
-<script src="js/bootstrap.js"></script>
+    <script src="js/jquery-2.1.3.min.js"></script>
+    <script src="js/util.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBLuuCLPfv-EMWsbVUr7iPJtaubpbzzLow&callback=initMap"
+            type="text/javascript"></script>
     <script>
+        let isResize = false;
+
+        var map;
+        function initMap() {
+            map = new google.maps.Map(document.getElementById('map'), {
+                center: {lat: -34.397, lng: 150.644},
+                zoom: 8
+            });
+        }
+
+        function checkIfResize() {
+            if (isResize) {
+
+                if (checkIfMobile()){
+                } else {
+
+                    $('.home-scrolldown').css('display', 'block');
+
+                    $('#blank').height(90);
+                    $('#dropDownParentList').css('display', 'inline-block');
+                    $('#creditMobile').css('display', 'none');
+                }
+
+                isResize = false;
+            }
+        }
+
+        function resizeScreen() {
+            isResize = true;
+        }
 
         $(document).ready(function(e) {
             $('#headerComponent').load('components/header.html');
             $('#footerComponent').load('components/footer.html');
 
-            $('#dropdownMenuLink').on('mouseover', function() {
-                $('#dropDownParentList').addClass('open');
-            });
+            setTimeout(checkNavegation, 2000);
 
-            $('img[usemap]').rwdImageMaps();
+            isResize = true;
+            setInterval(checkIfResize, 1000);
 
-            $('#equipoArea').on('click', function() {
-                goTo('contacto');
-            });
-
-            let images = ['equipoImage'];
-
-            images.forEach(image => {
-                $('#'+image+'')
-                    .width($(window).width().toString())
-                    .height($(window).height().toString() - 72);
-            });
+            initMap();
         });
 
     </script>
+
+    <script>
+
+    </script>
+
 </body>
-
-
-<!-- Mirrored from demos.onepagelove.com/html/dazzle/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Aug 2018 01:47:49 GMT -->
 </html>

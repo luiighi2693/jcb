@@ -2,12 +2,193 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ac8ab2c-1970-429c-bef1-7bac27ad53b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/main2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edificacion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edificacion_1_corredor_yarinacocha.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edificacion_2_early_years_newton.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edificacion_3_link_tower.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edificacion_4_newton.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edificacion_5_upc_villa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/energiayminas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/energiayminas_1_puentes_cmh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/energiayminas_2_refineria_etanol.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/1_parque lambramani/parque_lambramani_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/1_parque lambramani/parque_lambramani_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/1_parque lambramani/parque_lambramani_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/1_parque lambramani/parque_lambramani_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/1_parque lambramani/parque_lambramani_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/1_parque lambramani/parque_lambramani_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/1_parque lambramani/parque_lambramani_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/1_parque lambramani/parque_lambramani_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/2_boulevard 3_jockey plaza/boulevard_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/2_boulevard 3_jockey plaza/boulevard_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/2_boulevard 3_jockey plaza/boulevard_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/2_boulevard 3_jockey plaza/boulevard_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/2_boulevard 3_jockey plaza/boulevard_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/2_boulevard 3_jockey plaza/boulevard_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/2_boulevard 3_jockey plaza/boulevard_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/2_boulevard 3_jockey plaza/boulevard_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/2_boulevard 3_jockey plaza/todas_boulevard.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/3_food_hall_jockey plaza/food_hall_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/3_food_hall_jockey plaza/food_hall_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/3_food_hall_jockey plaza/food_hall_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/3_food_hall_jockey plaza/food_hall_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/3_food_hall_jockey plaza/food_hall_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/3_food_hall_jockey plaza/food_hall_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/3_food_hall_jockey plaza/food_hall_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/3_food_hall_jockey plaza/food_hall_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/3_food_hall_jockey plaza/todasfood_hall.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/4_cinemark_megaplaza/cinemark_megaplaza_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/4_cinemark_megaplaza/cinemark_megaplaza_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/4_cinemark_megaplaza/cinemark_megaplaza_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/4_cinemark_megaplaza/cinemark_megaplaza_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/4_cinemark_megaplaza/cinemark_megaplaza_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/4_cinemark_megaplaza/cinemark_megaplaza_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/4_cinemark_megaplaza/cinemark_megaplaza_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/4_cinemark_megaplaza/cinemark_megaplaza_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/5_mall_aventura_arequipa/mall_aventura_arequipa_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/5_mall_aventura_arequipa/mall_aventura_arequipa_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/5_mall_aventura_arequipa/mall_aventura_arequipa_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/5_mall_aventura_arequipa/mall_aventura_arequipa_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/5_mall_aventura_arequipa/mall_aventura_arequipa_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/5_mall_aventura_arequipa/mall_aventura_arequipa_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/5_mall_aventura_arequipa/mall_aventura_arequipa_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/5_mall_aventura_arequipa/mall_aventura_arequipa_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/6_plaza vea_jockey plaza/plaza_vea_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/6_plaza vea_jockey plaza/plaza_vea_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/6_plaza vea_jockey plaza/plaza_vea_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/6_plaza vea_jockey plaza/plaza_vea_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/7_real plaza_huancayo/real_plaza_huancayo_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/7_real plaza_huancayo/real_plaza_huancayo_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/7_real plaza_huancayo/real_plaza_huancayo_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/7_real plaza_huancayo/real_plaza_huancayo_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/7_real plaza_huancayo/real_plaza_huancayo_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/7_real plaza_huancayo/real_plaza_huancayo_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/7_real plaza_huancayo/real_plaza_huancayo_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/8_estacionamiento_jockey plaza/estacionamiento_jockey_plaza_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/8_estacionamiento_jockey plaza/estacionamiento_jockey_plaza_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/8_estacionamiento_jockey plaza/estacionamiento_jockey_plaza_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/1_retail/8_estacionamiento_jockey plaza/estacionamiento_jockey_plaza_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/1_Ilender/Ilender_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/1_Ilender/Ilender_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/1_Ilender/Ilender_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/1_Ilender/Ilender_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/1_Ilender/Ilender_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/1_Ilender/Ilender_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/2_Peru_plast/peru_plast_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/2_Peru_plast/peru_plast_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/2_Peru_plast/peru_plast_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/2_Peru_plast/peru_plast_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/2_Peru_plast/peru_plast_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/3_Planta_Rival_Chilca/planta_rival_chilca_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/3_Planta_Rival_Chilca/planta_rival_chilca_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/3_Planta_Rival_Chilca/planta_rival_chilca_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/3_Planta_Rival_Chilca/planta_rival_chilca_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/3_Planta_Rival_Chilca/planta_rival_chilca_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/3_Planta_Rival_Chilca/planta_rival_chilca_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/3_Planta_Rival_Chilca/planta_rival_chilca_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/3_Planta_Rival_Chilca/planta_rival_chilca_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/3_energia y minas/1_Puentes CMH/puentes_cmh_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/3_energia y minas/1_Puentes CMH/puentes_cmh_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/3_energia y minas/1_Puentes CMH/puentes_cmh_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/3_energia y minas/1_Puentes CMH/puentes_cmh_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/3_energia y minas/1_Puentes CMH/puentes_cmh_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/3_energia y minas/1_Puentes CMH/puentes_cmh_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/3_energia y minas/1_Puentes CMH/puentes_cmh_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/3_energia y minas/1_Puentes CMH/puentes_cmh_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/3_energia y minas/2_Refineria_Etanol/refineria_etanol_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/3_energia y minas/2_Refineria_Etanol/refineria_etanol_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/3_energia y minas/2_Refineria_Etanol/refineria_etanol_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/3_energia y minas/2_Refineria_Etanol/refineria_etanol_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/3_energia y minas/2_Refineria_Etanol/refineria_etanol_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/3_energia y minas/2_Refineria_Etanol/refineria_etanol_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/3_energia y minas/2_Refineria_Etanol/refineria_etanol_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/1_Peajes/peajes_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/1_Peajes/peajes_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/1_Peajes/peajes_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/1_Peajes/peajes_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/1_Peajes/peajes_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/1_Peajes/peajes_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/1_Peajes/peajes_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/1_Peajes/peajes_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/2_Puente Arica/puente_arica_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/2_Puente Arica/puente_arica_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/2_Puente Arica/puente_arica_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/2_Puente Arica/puente_arica_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/2_Puente Arica/puente_arica_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/2_Puente Arica/puente_arica_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/2_Puente Arica/puente_arica_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/2_Puente Arica/puente_arica_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/3_Puente_Comuneros_Huancayo/puente_comuneros_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/3_Puente_Comuneros_Huancayo/puente_comuneros_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/3_Puente_Comuneros_Huancayo/puente_comuneros_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/3_Puente_Comuneros_Huancayo/puente_comuneros_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/3_Puente_Comuneros_Huancayo/puente_comuneros_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/3_Puente_Comuneros_Huancayo/puente_comuneros_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/3_Puente_Comuneros_Huancayo/puente_comuneros_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/3_Puente_Comuneros_Huancayo/puente_comuneros_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/4_Puente Villena/puente_villena_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/4_Puente Villena/puente_villena_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/4_Puente Villena/puente_villena_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/4_Puente Villena/puente_villena_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/1_Corredor_Yarinacocha/corredor_yarinacocha_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/1_Corredor_Yarinacocha/corredor_yarinacocha_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/1_Corredor_Yarinacocha/corredor_yarinacocha_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/1_Corredor_Yarinacocha/corredor_yarinacocha_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/1_Corredor_Yarinacocha/corredor_yarinacocha_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/1_Corredor_Yarinacocha/corredor_yarinacocha_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/1_Corredor_Yarinacocha/corredor_yarinacocha_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/1_Corredor_Yarinacocha/corredor_yarinacocha_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/3_Link_Tower/link_tower_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/3_Link_Tower/link_tower_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/3_Link_Tower/link_tower_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/3_Link_Tower/link_tower_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/3_Link_Tower/link_tower_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/4_Newton/newton_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/4_Newton/newton_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/4_Newton/newton_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/4_Newton/newton_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/4_Newton/newton_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/4_Newton/newton_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/4_Newton/newton_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/4_Newton/newton_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/5_UPC_Villa/upc_villa_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/5_UPC_Villa/upc_villa_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/5_UPC_Villa/upc_villa_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/5_UPC_Villa/upc_villa_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/5_UPC_Villa/upc_villa_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/5_UPC_Villa/upc_villa_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/5_UPC_Villa/upc_villa_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/5_UPC_Villa/upc_villa_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/industrial.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/industrial_1_ilender.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/industrial_2_peruplast.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/industrial_3_plantarival_chilca.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retail_1_parque_labramani.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retail_2_boulevard_jockeyplaza.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retail_3_foodhall_jockeyplaza.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retail_4_cinemark_megaplaza.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retail_5_mallaventura_arequipa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retail_6_plazavea_jockeyplaza.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retail_7_realplaza_huancayo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retail_8_estacionamiento_jockeyplaza.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vial.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vial_1_peajes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vial_2_puente_arica.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vial_3_puentecomuneros_huancayo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vial_4_puente_villena.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/components/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/components/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nosotros.html" beforeDir="false" afterPath="$PROJECT_DIR$/nosotros.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacto.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,128 +196,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-784763176">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="Dockerfile" value="4" />
-          <entry key="LICENSE" value="1" />
-          <entry key="css" value="8" />
-          <entry key="html" value="17" />
-          <entry key="jpg" value="4" />
-          <entry key="js" value="3" />
-          <entry key="png" value="5" />
-          <entry key="woff2" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="8" />
-          <entry key="Dockerfile" value="4" />
-          <entry key="HTML" value="17" />
-          <entry key="Image" value="9" />
-          <entry key="JavaScript" value="3" />
-          <entry key="PLAIN_TEXT" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="css" value="186" />
-          <entry key="html" value="5239" />
-          <entry key="js" value="15" />
-          <entry key="txt" value="157" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CSS" value="186" />
-          <entry key="HTML" value="5239" />
-          <entry key="JavaScript" value="15" />
-          <entry key="PLAIN_TEXT" value="157" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nosotros.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="212" column="41" selection-start-line="212" selection-start-column="41" selection-end-line="212" selection-end-column="41" />
-              <folding>
-                <element signature="n#style#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#3676#3684#0" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#hr#0;n#div#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#div#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#1;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#2;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#2;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#3;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#3;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#4;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#5;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#6;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#section#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#section#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#section#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#section#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-774">
-              <caret line="69" column="72" selection-start-line="69" selection-start-column="72" selection-end-line="69" selection-end-column="72" />
-              <folding>
-                <element signature="n#style#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#video#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#div#1;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/components/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="62" column="15" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
-              <caret line="66" column="15" selection-start-line="66" selection-start-column="15" selection-end-line="66" selection-end-column="15" />
+            <state relative-caret-position="314">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#0;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
@@ -148,7 +214,13 @@
                 <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#1;n#div#0;n#li#2;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#3;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#3;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#li#3;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#li#3;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#2;n#div#0;n#li#3;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#3;n#div#0;n#li#3;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#4;n#div#0;n#li#3;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#4;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#5;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#6;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
@@ -158,122 +230,78 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/util.js">
+        <entry file="file://$PROJECT_DIR$/edificacion.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nuestraplanta.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2278">
-              <caret line="134" column="12" lean-forward="true" selection-start-line="134" selection-start-column="12" selection-end-line="134" selection-end-column="12" />
+            <state relative-caret-position="385">
+              <caret line="135" column="223" selection-start-line="135" selection-start-column="195" selection-end-line="135" selection-end-column="223" />
               <folding>
-                <element signature="n#style#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/edificacion_5_upc_villa.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="97" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="97" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="2968" column="12" lean-forward="true" selection-start-line="2968" selection-start-column="12" selection-end-line="2968" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="459">
+              <caret line="78" column="108" lean-forward="true" selection-start-line="78" selection-start-column="108" selection-end-line="78" selection-end-column="108" />
               <folding>
-                <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#a#0;n#div#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#a#0;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#1;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#2;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#a#0;n#div#2;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#1;n#div#2;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#2;n#div#2;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#a#0;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#1;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#2;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#3;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#4;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#5;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#a#0;n#div#4;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#a#1;n#div#4;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#a#0;n#div#5;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#a#1;n#div#5;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#div#1;n#div#1;n#footer#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/transporte.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3230">
-              <caret line="190" column="15" lean-forward="true" selection-start-line="190" selection-start-column="15" selection-end-line="190" selection-end-column="15" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hatuncasa.html">
+        <entry file="file://$PROJECT_DIR$/edificacion_4_newton.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="58" column="157" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="157" />
+            <state relative-caret-position="425">
+              <caret line="85" column="10" lean-forward="true" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edificacion_3_link_tower.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="78" column="45" selection-start-line="78" selection-start-column="45" selection-end-line="78" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edificacion_2_early_years_newton.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="77" column="51" selection-start-line="77" selection-start-column="51" selection-end-line="77" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edificacion_1_corredor_yarinacocha.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="79" column="44" selection-start-line="79" selection-start-column="44" selection-end-line="79" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vial.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="134" column="236" selection-start-line="134" selection-start-column="210" selection-end-line="134" selection-end-column="236" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -297,6 +325,9 @@
       <find>border</find>
       <find>misionImage</find>
       <find>nosotrosArea4</find>
+      <find>dropDownParentList</find>
+      <find>dropDownParentList3</find>
+      <find>retail</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -312,24 +343,48 @@
         <option value="$PROJECT_DIR$/nuestraplanta.html" />
         <option value="$PROJECT_DIR$/transporte.html" />
         <option value="$PROJECT_DIR$/components/footer.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/util.js" />
         <option value="$PROJECT_DIR$/nosotros.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/contacto.html" />
+        <option value="$PROJECT_DIR$/css/main2.css" />
         <option value="$PROJECT_DIR$/components/header.html" />
+        <option value="$PROJECT_DIR$/retail_1_parque_labramani.html" />
+        <option value="$PROJECT_DIR$/retail_2_boulevard_jockeyplaza.html" />
+        <option value="$PROJECT_DIR$/retail.html" />
+        <option value="$PROJECT_DIR$/retail_3_foodhall_jockeyplaza.html" />
+        <option value="$PROJECT_DIR$/retail_4_cinemark_megaplaza.html" />
+        <option value="$PROJECT_DIR$/retail_5_mallaventura_arequipa.html" />
+        <option value="$PROJECT_DIR$/retail_6_plazavea_jockeyplaza.html" />
+        <option value="$PROJECT_DIR$/retail_7_realplaza_huancayo.html" />
+        <option value="$PROJECT_DIR$/retail_8_estacionamiento_jockeyplaza.html" />
+        <option value="$PROJECT_DIR$/industrial_1_ilender.html" />
+        <option value="$PROJECT_DIR$/industrial.html" />
+        <option value="$PROJECT_DIR$/industrial_2_peruplast.html" />
+        <option value="$PROJECT_DIR$/industrial_3_plantarival_chilca.html" />
+        <option value="$PROJECT_DIR$/energiayminas_1_puentes_cmh.html" />
+        <option value="$PROJECT_DIR$/energiayminas_2_refineria_etanol.html" />
+        <option value="$PROJECT_DIR$/energiayminas.html" />
+        <option value="$PROJECT_DIR$/vial.html" />
+        <option value="$PROJECT_DIR$/vial_1_peajes.html" />
+        <option value="$PROJECT_DIR$/vial_2_puente_arica.html" />
+        <option value="$PROJECT_DIR$/vial_3_puentecomuneros_huancayo.html" />
+        <option value="$PROJECT_DIR$/vial_4_puente_villena.html" />
+        <option value="$PROJECT_DIR$/edificacion.html" />
+        <option value="$PROJECT_DIR$/edificacion_1_corredor_yarinacocha.html" />
+        <option value="$PROJECT_DIR$/edificacion_2_early_years_newton.html" />
+        <option value="$PROJECT_DIR$/edificacion_3_link_tower.html" />
+        <option value="$PROJECT_DIR$/edificacion_4_newton.html" />
+        <option value="$PROJECT_DIR$/edificacion_5_upc_villa.html" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="79" />
-    <option name="y" value="5" />
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="695" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -349,6 +404,37 @@
               <item name="jcb" type="b2602c69:ProjectViewProjectNode" />
               <item name="jcb" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jcb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jcb" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jcb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jcb" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jcb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jcb" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="jcb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jcb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jcb" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="jcb" type="462c0819:PsiDirectoryNode" />
+              <item name="proyectos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jcb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jcb" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="jcb" type="462c0819:PsiDirectoryNode" />
+              <item name="proyectos" type="462c0819:PsiDirectoryNode" />
+              <item name="1_retail" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jcb" type="b2602c69:ProjectViewProjectNode" />
@@ -379,11 +465,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\sources\alpima\jcb" />
+      <recent name="C:\sources\alpima\jcb\css" />
+      <recent name="C:\sources\alpima\jcb\images\jcb" />
       <recent name="C:\mywebsites\jcb" />
       <recent name="C:\mywebsites\jcb\videos" />
-      <recent name="C:\mywebsites\jcb\images\jcb" />
-      <recent name="C:\mywebsites\jcb\images\jcb\transporte_carrusel" />
-      <recent name="C:\mywebsites\jcb\images\jcb\nueva planta_carrusel" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -415,7 +501,14 @@
       <workItem from="1545071732731" duration="4511000" />
       <workItem from="1545155106101" duration="17076000" />
       <workItem from="1545232046420" duration="7284000" />
-      <workItem from="1545313652485" duration="4368000" />
+      <workItem from="1545313652485" duration="6757000" />
+      <workItem from="1545878556489" duration="610000" />
+      <workItem from="1545940028431" duration="57000" />
+      <workItem from="1546186521796" duration="599000" />
+      <workItem from="1546728778037" duration="1273000" />
+      <workItem from="1548101922147" duration="3723000" />
+      <workItem from="1548213999632" duration="5611000" />
+      <workItem from="1548249715309" duration="17891000" />
     </task>
     <task id="LOCAL-00001" summary="nosotros dos imagen">
       <created>1544838229377</created>
@@ -459,17 +552,31 @@
       <option name="project" value="LOCAL" />
       <updated>1545282338055</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="links y fixes 2">
+      <created>1545318275390</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1545318275390</updated>
+    </task>
+    <task id="LOCAL-00008" summary="links y fixes 3">
+      <created>1545348971286</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1545348971287</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56239000" />
+    <option name="totallyTimeSpent" value="88392000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20045386" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13166311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -479,24 +586,44 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.29508197" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.20260021" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.02496218" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.21860817" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2912254" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.29459903" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.21860817" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nosotros dos imagen" />
@@ -505,24 +632,11 @@
     <MESSAGE value="ajustes esteticos de la vista 1 finalizados" />
     <MESSAGE value="carouseles y fixes" />
     <MESSAGE value="links y fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="links y fixes" />
+    <MESSAGE value="links y fixes 2" />
+    <MESSAGE value="links y fixes 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="links y fixes 3" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/jcb/cabecera.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/jcb/logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/jcb/valores_beneficios.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/jcb/nosotros_2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/fonts/muli/DINBd.woff2">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -576,130 +690,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nuestraplanta.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2278">
-          <caret line="134" column="12" lean-forward="true" selection-start-line="134" selection-start-column="12" selection-end-line="134" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transporte.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3230">
-          <caret line="190" column="15" lean-forward="true" selection-start-line="190" selection-start-column="15" selection-end-line="190" selection-end-column="15" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hatuncasa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="157" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="157" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="97" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="2968" column="12" lean-forward="true" selection-start-line="2968" selection-start-column="12" selection-end-line="2968" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#a#0;n#div#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#a#0;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#1;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#2;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#a#0;n#div#2;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#1;n#div#2;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#2;n#div#2;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#a#0;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#1;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#2;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#3;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#4;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#5;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#a#0;n#div#4;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#a#1;n#div#4;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#a#0;n#div#5;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#a#1;n#div#5;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#div#1;n#div#1;n#footer#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-774">
-          <caret line="69" column="72" selection-start-line="69" selection-start-column="72" selection-end-line="69" selection-end-column="72" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#video#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#1;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/util.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nosotros.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="212" column="41" selection-start-line="212" selection-start-column="41" selection-end-line="212" selection-end-column="41" />
+        <state relative-caret-position="325">
+          <caret line="200" column="10" selection-start-line="200" selection-start-column="10" selection-end-line="200" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -739,11 +733,358 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/hatun/enviar.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#video#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#1;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" column="54" selection-start-line="80" selection-start-column="54" selection-end-line="80" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#1;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50456">
+          <caret line="2968" column="12" selection-start-line="2968" selection-start-column="12" selection-end-line="2968" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#a#0;n#div#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#a#0;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#2;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#a#0;n#div#2;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#div#2;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#2;n#div#2;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#a#0;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#2;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#3;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#4;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#5;n#div#3;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#a#0;n#div#4;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#a#1;n#div#4;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#a#0;n#div#5;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#a#1;n#div#5;n#div#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#1;n#footer#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transporte.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="18" lean-forward="true" selection-start-line="68" selection-start-column="8" selection-end-line="76" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hatuncasa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="157" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="101" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nuestraplanta.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="134" column="12" selection-start-line="134" selection-start-column="12" selection-end-line="134" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="2319" column="12" lean-forward="true" selection-start-line="2319" selection-start-column="12" selection-end-line="2319" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail_1_parque_labramani.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="82" column="97" selection-start-line="82" selection-start-column="97" selection-end-line="82" selection-end-column="97" />
+          <caret line="82" column="196" selection-start-line="82" selection-start-column="196" selection-end-line="82" selection-end-column="196" />
+          <folding>
+            <element signature="n#style#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail_2_boulevard_jockeyplaza.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="66" column="25" lean-forward="true" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail_3_foodhall_jockeyplaza.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="82" column="94" selection-start-line="82" selection-start-column="94" selection-end-line="82" selection-end-column="94" />
+          <caret line="82" column="190" selection-start-line="82" selection-start-column="190" selection-end-line="82" selection-end-column="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail_4_cinemark_megaplaza.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="75" column="83" selection-start-line="75" selection-start-column="83" selection-end-line="75" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail_5_mallaventura_arequipa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="79" column="41" lean-forward="true" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail_6_plazavea_jockeyplaza.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail_7_realplaza_huancayo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail_8_estacionamiento_jockeyplaza.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="63" column="31" lean-forward="true" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="145" column="50" lean-forward="true" selection-start-line="145" selection-start-column="50" selection-end-line="145" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/industrial_1_ilender.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/industrial_2_peruplast.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="70" column="108" selection-start-line="70" selection-start-column="108" selection-end-line="70" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/industrial_3_plantarival_chilca.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="83" column="13" lean-forward="true" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/industrial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="133" column="283" lean-forward="true" selection-start-line="133" selection-start-column="247" selection-end-line="133" selection-end-column="283" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energiayminas_1_puentes_cmh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="80" column="42" lean-forward="true" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energiayminas_2_refineria_etanol.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="81" column="106" selection-start-line="81" selection-start-column="106" selection-end-line="81" selection-end-column="106" />
+          <caret line="81" column="214" selection-start-line="81" selection-start-column="214" selection-end-line="81" selection-end-column="214" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energiayminas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="81" column="18" lean-forward="true" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vial_1_peajes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vial_2_puente_arica.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="80" column="74" lean-forward="true" selection-start-line="80" selection-start-column="74" selection-end-line="80" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vial_3_puentecomuneros_huancayo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vial_4_puente_villena.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="77" column="53" lean-forward="true" selection-start-line="77" selection-start-column="53" selection-end-line="77" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="134" column="236" selection-start-line="134" selection-start-column="210" selection-end-line="134" selection-end-column="236" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/components/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="62" column="15" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
-          <caret line="66" column="15" selection-start-line="66" selection-start-column="15" selection-end-line="66" selection-end-column="15" />
+        <state relative-caret-position="314">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
           <folding>
             <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#0;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
@@ -755,10 +1096,67 @@
             <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#1;n#div#0;n#li#2;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#3;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#3;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#li#3;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#li#3;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#2;n#div#0;n#li#3;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#3;n#div#0;n#li#3;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#4;n#div#0;n#li#3;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#4;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#5;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#6;n#ul#0;n#nav#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edificacion_1_corredor_yarinacocha.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="79" column="44" selection-start-line="79" selection-start-column="44" selection-end-line="79" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edificacion_2_early_years_newton.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="77" column="51" selection-start-line="77" selection-start-column="51" selection-end-line="77" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edificacion_3_link_tower.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="78" column="45" selection-start-line="78" selection-start-column="45" selection-end-line="78" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edificacion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="135" column="223" selection-start-line="135" selection-start-column="195" selection-end-line="135" selection-end-column="223" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edificacion_4_newton.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="85" column="10" lean-forward="true" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edificacion_5_upc_villa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="78" column="108" lean-forward="true" selection-start-line="78" selection-start-column="108" selection-end-line="78" selection-end-column="108" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
