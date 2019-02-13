@@ -36,6 +36,7 @@
    ================================================== -->
     <link rel="stylesheet" href="css/base.css">
     <link rel="stylesheet" href="css/main.css">
+    <link href="css/slider.css" rel="stylesheet" type="text/css" media="all"/>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/flexisel.css">
 
@@ -68,17 +69,54 @@
 
         <section id="nosotros32" style="position: relative;margin-top: 90px;display: inline-block;">
             <div style="display: flex;">
-                <img name="visionImage" src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_1.jpg" width="1920" height="1080" border="0" id="misionImage4" alt="" style="width: 100%; height: auto;"/>
+                <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                    </ol>
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_1.jpg" alt="First slide">
+                        </div>
+                        <div class="item">
+                            <img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_2.jpg" alt="Second slide">
+                        </div>
+                        <div class="item">
+                            <img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_3.jpg" alt="Third slide">
+                        </div>
+                        <div class="item">
+                            <img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_4.jpg" alt="Four slide">
+                        </div>
+                        <div class="item">
+                            <img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_5.jpg" alt="First slide">
+                        </div>
+                        <div class="item">
+                            <img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_6.jpg" alt="Second slide">
+                        </div>
+                    </div>
+                    <!-- Controls -->
+                    <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+                        <span class="flechas"><img src="images/flecha_izq1.png" class="arrowCarousel"></span>
+                    </a>
+                    <a class="right carousel-control right-carousel-control-responsive" href="#carousel-example-generic" data-slide="next">
+                        <span class="flechas"><img src="images/flecha_der1.png" class="arrowCarousel"></span>
+                    </a>
+                </div>
+                <!--<img name="visionImage" src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_1.jpg" width="1920" height="1080" border="0" id="misionImage4" alt="" style="width: 100%; height: auto;"/>-->
             </div>
         </section>
 
         <ul id="flexiselDemo3">
-            <li><img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_1.jpg" onclick="changeImage('images/jcb/proyectos/2_industrial/1_Ilender/Ilender_1.jpg')" style="    padding: 3%;"/></li>
-            <li><img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_2.jpg" onclick="changeImage('images/jcb/proyectos/2_industrial/1_Ilender/Ilender_2.jpg')" style="    padding: 3%;"/></li>
-            <li><img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_3.jpg" onclick="changeImage('images/jcb/proyectos/2_industrial/1_Ilender/Ilender_3.jpg')" style="    padding: 3%;"/></li>
-            <li><img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_4.jpg" onclick="changeImage('images/jcb/proyectos/2_industrial/1_Ilender/Ilender_4.jpg')" style="    padding: 3%;"/></li>
-            <li><img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_5.jpg" onclick="changeImage('images/jcb/proyectos/2_industrial/1_Ilender/Ilender_5.jpg')" style="    padding: 3%;"/></li>
-            <li><img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_6.jpg" onclick="changeImage('images/jcb/proyectos/2_industrial/1_Ilender/Ilender_6.jpg')" style="    padding: 3%;"/></li>
+            <li><img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_1.jpg" style="    padding: 3%;"/></li>
+            <li><img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_2.jpg" style="    padding: 3%;"/></li>
+            <li><img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_3.jpg" style="    padding: 3%;"/></li>
+            <li><img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_4.jpg" style="    padding: 3%;"/></li>
+            <li><img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_5.jpg" style="    padding: 3%;"/></li>
+            <li><img src="images/jcb/proyectos/2_industrial/1_Ilender/Ilender_6.jpg" style="    padding: 3%;"/></li>
         </ul>
 
     </div>

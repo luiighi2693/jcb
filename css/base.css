@@ -907,5 +907,9 @@ textarea {
   text-align: center;
 }
 
+.flechas{
+  position: absolute;
+  top: 50%
+}
 
 /*# sourceMappingURL=base.css.map */
