@@ -66,20 +66,20 @@ display:none;
 
 /*** Navigation ***/
 
-.nbs-flexisel-nav-left,
-.nbs-flexisel-nav-right {
-    padding:5px 10px;
-    border-radius:15px;
-    -moz-border-radius:15px;
-    -webkit-border-radius:15px;      
-    position: absolute;
-    cursor: pointer;
-    z-index: 4;
-    top: 55%;
-    transform: translateY(-50%);
-    background-image: url('../images/jcb/bullet.png');
-    color: #fff;     
-}
+/*.nbs-flexisel-nav-left,*/
+/*.nbs-flexisel-nav-right {*/
+    /*padding:5px 10px;*/
+    /*border-radius:15px;*/
+    /*-moz-border-radius:15px;*/
+    /*-webkit-border-radius:15px;      */
+    /*position: absolute;*/
+    /*cursor: pointer;*/
+    /*z-index: 4;*/
+    /*top: 55%;*/
+    /*transform: translateY(-50%);*/
+    /*background-image: url('../images/jcb/bullet.png');*/
+    /*color: #fff;     */
+/*}*/
 
 .nbs-flexisel-nav-left {
     left: 15px;
