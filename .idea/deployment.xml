@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="jcb demo">
+  <component name="PublishConfigData">
     <serverData>
-      <paths name="jcb demo">
+      <paths name="PROD">
         <serverdata>
           <mappings>
-            <mapping deploy="/web" local="$PROJECT_DIR$" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
