@@ -912,4 +912,8 @@ textarea {
   top: 50%
 }
 
+.arrowCarousel{
+  max-width: 60% !important;
+}
+
 /*# sourceMappingURL=base.css.map */
