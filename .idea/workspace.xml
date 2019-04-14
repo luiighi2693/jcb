@@ -2,95 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ac8ab2c-1970-429c-bef1-7bac27ad53b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/jcb/clientes/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/clientes/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/clientes/21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/clientes/23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/clientes/24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/clientes/25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/clientes/27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/clientes/29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/clientes/31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/clientes/34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/clientes/41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/clientes/42.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cliente.html" beforeDir="false" afterPath="$PROJECT_DIR$/cliente.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/components/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/components/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edificacion.html" beforeDir="false" afterPath="$PROJECT_DIR$/edificacion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edificacion_1_corredor_yarinacocha.html" beforeDir="false" afterPath="$PROJECT_DIR$/edificacion_1_corredor_yarinacocha.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edificacion_2_early_years_newton.html" beforeDir="false" afterPath="$PROJECT_DIR$/edificacion_2_early_years_newton.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edificacion_4_newton.html" beforeDir="false" afterPath="$PROJECT_DIR$/edificacion_4_newton.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edificacion_5_upc_villa.html" beforeDir="false" afterPath="$PROJECT_DIR$/edificacion_5_upc_villa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/energiayminas.html" beforeDir="false" afterPath="$PROJECT_DIR$/energiayminas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/energiayminas_1_puentes_cmh.html" beforeDir="false" afterPath="$PROJECT_DIR$/energiayminas_1_puentes_cmh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/energiayminas_2_refineria_etanol.html" beforeDir="false" afterPath="$PROJECT_DIR$/energiayminas_2_refineria_etanol.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/carrusel_nosotros/carrusel_nosotros_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/carrusel_nosotros/carrusel_nosotros_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/19.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/22.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/25.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/26.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/26.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/28.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/28.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/30.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/30.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/32.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/33.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/33.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/35.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/35.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/36.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/36.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/37.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/37.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/38.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/38.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/39.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/39.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/40.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/40.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/clientes/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/clientes/9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/nosotros_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/nosotros_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/nosotros_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/nosotros_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/nosotros_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/nosotros_4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/nueva_planta_carrusel/carrusel_planta_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/nueva_planta_carrusel/carrusel_planta_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/transporte_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/transporte_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/industrial.html" beforeDir="false" afterPath="$PROJECT_DIR$/industrial.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/industrial_1_ilender.html" beforeDir="false" afterPath="$PROJECT_DIR$/industrial_1_ilender.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/industrial_2_peruplast.html" beforeDir="false" afterPath="$PROJECT_DIR$/industrial_2_peruplast.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/industrial_3_plantarival_chilca.html" beforeDir="false" afterPath="$PROJECT_DIR$/industrial_3_plantarival_chilca.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retail.html" beforeDir="false" afterPath="$PROJECT_DIR$/retail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retail_1_parque_labramani.html" beforeDir="false" afterPath="$PROJECT_DIR$/retail_1_parque_labramani.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retail_2_boulevard_jockeyplaza.html" beforeDir="false" afterPath="$PROJECT_DIR$/retail_2_boulevard_jockeyplaza.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retail_3_foodhall_jockeyplaza.html" beforeDir="false" afterPath="$PROJECT_DIR$/retail_3_foodhall_jockeyplaza.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retail_4_cinemark_megaplaza.html" beforeDir="false" afterPath="$PROJECT_DIR$/retail_4_cinemark_megaplaza.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retail_5_mallaventura_arequipa.html" beforeDir="false" afterPath="$PROJECT_DIR$/retail_5_mallaventura_arequipa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retail_6_plazavea_jockeyplaza.html" beforeDir="false" afterPath="$PROJECT_DIR$/retail_6_plazavea_jockeyplaza.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retail_7_realplaza_huancayo.html" beforeDir="false" afterPath="$PROJECT_DIR$/retail_7_realplaza_huancayo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retail_8_estacionamiento_jockeyplaza.html" beforeDir="false" afterPath="$PROJECT_DIR$/retail_8_estacionamiento_jockeyplaza.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vial.html" beforeDir="false" afterPath="$PROJECT_DIR$/vial.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vial_2_puente_arica.html" beforeDir="false" afterPath="$PROJECT_DIR$/vial_2_puente_arica.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vial_3_puentecomuneros_huancayo.html" beforeDir="false" afterPath="$PROJECT_DIR$/vial_3_puentecomuneros_huancayo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vial_4_puente_villena.html" beforeDir="false" afterPath="$PROJECT_DIR$/vial_4_puente_villena.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,50 +27,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/jcb/banners/edificacion1.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/edificacion.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="239" column="37" lean-forward="true" selection-start-line="239" selection-start-column="37" selection-end-line="239" selection-end-column="37" />
-              <folding>
-                <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#3;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#4;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/components/footer.html">
+        <entry file="file://$PROJECT_DIR$/vial_2_puente_arica.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-              <folding>
-                <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="72" column="64" selection-start-line="72" selection-start-column="35" selection-end-line="72" selection-end-column="64" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/jcb/banners/edificacion5.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/jcb/banners/edificacion4.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/jcb/banners/edificacion2.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -223,7 +99,6 @@
         <option value="$PROJECT_DIR$/industrial_3_plantarival_chilca.html" />
         <option value="$PROJECT_DIR$/energiayminas_1_puentes_cmh.html" />
         <option value="$PROJECT_DIR$/energiayminas_2_refineria_etanol.html" />
-        <option value="$PROJECT_DIR$/vial_2_puente_arica.html" />
         <option value="$PROJECT_DIR$/vial_3_puentecomuneros_huancayo.html" />
         <option value="$PROJECT_DIR$/vial_4_puente_villena.html" />
         <option value="$PROJECT_DIR$/edificacion_1_corredor_yarinacocha.html" />
@@ -247,6 +122,7 @@
         <option value="$PROJECT_DIR$/vial.html" />
         <option value="$PROJECT_DIR$/edificacion.html" />
         <option value="$PROJECT_DIR$/components/footer.html" />
+        <option value="$PROJECT_DIR$/vial_2_puente_arica.html" />
       </list>
     </option>
   </component>
@@ -327,11 +203,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\sources\alpima\jcb" />
       <recent name="C:\sources\alpima\jcb\images\jcb\clientes" />
       <recent name="C:\sources\alpima\jcb\images\jcb\nueva_planta_carrusel" />
       <recent name="C:\sources\alpima\jcb\images\jcb" />
       <recent name="C:\sources\alpima\jcb\images\jcb\carrusel_nosotros" />
-      <recent name="C:\sources\alpima\jcb" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -545,11 +421,25 @@
       <option name="project" value="LOCAL" />
       <updated>1554349039046</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="cambios">
+      <created>1555262073501</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1555262073501</updated>
+    </task>
+    <task id="LOCAL-00023" summary="cambios 2">
+      <created>1555262284508</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1555262284508</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151372000" />
+    <option name="totallyTimeSpent" value="151901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -606,38 +496,11 @@
     <MESSAGE value="full changes" />
     <MESSAGE value="opacitym buttons and icons in carousel" />
     <MESSAGE value="cambio de fuente en contactos" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambio de fuente en contactos" />
+    <MESSAGE value="cambios" />
+    <MESSAGE value="cambios 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios 2" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/retail_2_boulevard_jockeyplaza.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="86" column="37" lean-forward="true" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="45" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#5;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#6;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#7;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/edificacion_4_newton.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="243" column="19" selection-start-line="241" selection-start-column="12" selection-end-line="243" selection-end-column="27" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vial_4_puente_villena.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -962,13 +825,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/components/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vial_2_puente_arica.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="72" column="64" selection-start-line="72" selection-start-column="35" selection-end-line="72" selection-end-column="64" />
         </state>
       </provider>
     </entry>
