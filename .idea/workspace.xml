@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ac8ab2c-1970-429c-bef1-7bac27ad53b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton_OLD/early_years_newton_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton_OLD/early_years_newton_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton_OLD/early_years_newton_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton_OLD/early_years_newton_4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vial_2_puente_arica.html" beforeDir="false" afterPath="$PROJECT_DIR$/vial_2_puente_arica.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edificacion_2_early_years_newton.html" beforeDir="false" afterPath="$PROJECT_DIR$/edificacion_2_early_years_newton.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jcb/nosotros_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/nosotros_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton_OLD/early_years_newton_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton_OLD/early_years_newton_6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/proyectos/5_edificacion/2_Early_years_Newton_OLD/early_years_newton_7.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,17 +38,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vial_2_puente_arica.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="72" column="64" selection-start-line="72" selection-start-column="35" selection-end-line="72" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -102,7 +104,6 @@
         <option value="$PROJECT_DIR$/vial_3_puentecomuneros_huancayo.html" />
         <option value="$PROJECT_DIR$/vial_4_puente_villena.html" />
         <option value="$PROJECT_DIR$/edificacion_1_corredor_yarinacocha.html" />
-        <option value="$PROJECT_DIR$/edificacion_2_early_years_newton.html" />
         <option value="$PROJECT_DIR$/edificacion_4_newton.html" />
         <option value="$PROJECT_DIR$/edificacion_5_upc_villa.html" />
         <option value="$PROJECT_DIR$/retail_1_parque_labramani.html" />
@@ -123,6 +124,7 @@
         <option value="$PROJECT_DIR$/edificacion.html" />
         <option value="$PROJECT_DIR$/components/footer.html" />
         <option value="$PROJECT_DIR$/vial_2_puente_arica.html" />
+        <option value="$PROJECT_DIR$/edificacion_2_early_years_newton.html" />
       </list>
     </option>
   </component>
@@ -171,7 +173,33 @@
               <item name="jcb" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
               <item name="jcb" type="462c0819:PsiDirectoryNode" />
-              <item name="banners" type="462c0819:PsiDirectoryNode" />
+              <item name="proyectos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jcb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jcb" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="jcb" type="462c0819:PsiDirectoryNode" />
+              <item name="proyectos" type="462c0819:PsiDirectoryNode" />
+              <item name="5_edificacion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jcb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jcb" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="jcb" type="462c0819:PsiDirectoryNode" />
+              <item name="proyectos" type="462c0819:PsiDirectoryNode" />
+              <item name="5_edificacion" type="462c0819:PsiDirectoryNode" />
+              <item name="2_Early_years_Newton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jcb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jcb" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="jcb" type="462c0819:PsiDirectoryNode" />
+              <item name="proyectos" type="462c0819:PsiDirectoryNode" />
+              <item name="5_edificacion" type="462c0819:PsiDirectoryNode" />
+              <item name="2_Early_years_Newton_OLD" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jcb" type="b2602c69:ProjectViewProjectNode" />
@@ -203,11 +231,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\sources\alpima\jcb\images\jcb\proyectos\5_edificacion\2_Early_years_Newton" />
+      <recent name="C:\sources\alpima\jcb\images\jcb\proyectos\5_edificacion" />
+      <recent name="C:\sources\alpima\jcb\images\jcb" />
       <recent name="C:\sources\alpima\jcb" />
       <recent name="C:\sources\alpima\jcb\images\jcb\clientes" />
-      <recent name="C:\sources\alpima\jcb\images\jcb\nueva_planta_carrusel" />
-      <recent name="C:\sources\alpima\jcb\images\jcb" />
-      <recent name="C:\sources\alpima\jcb\images\jcb\carrusel_nosotros" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -273,6 +301,7 @@
       <workItem from="1554348560028" duration="681000" />
       <workItem from="1554384452398" duration="608000" />
       <workItem from="1554489712767" duration="4707000" />
+      <workItem from="1555272057635" duration="1737000" />
     </task>
     <task id="LOCAL-00001" summary="nosotros dos imagen">
       <created>1544838229377</created>
@@ -435,17 +464,23 @@
       <option name="project" value="LOCAL" />
       <updated>1555262284508</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="cambios 3">
+      <created>1555272133404</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1555272133404</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151901000" />
+    <option name="totallyTimeSpent" value="153638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29954615" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30408472" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -498,31 +533,16 @@
     <MESSAGE value="cambio de fuente en contactos" />
     <MESSAGE value="cambios" />
     <MESSAGE value="cambios 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambios 2" />
+    <MESSAGE value="cambios 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios 3" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vial_4_puente_villena.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="227" column="27" lean-forward="true" selection-start-line="227" selection-start-column="27" selection-end-line="227" selection-end-column="27" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#video#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/jcb/nosotros_2.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/jcb/nosotros_3.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -606,24 +626,12 @@
     <entry file="file://$PROJECT_DIR$/images/jcb/clientes/21.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/jcb/clientes/23.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/jcb/clientes/24.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/jcb/clientes/27.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/jcb/clientes/29.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/jcb/clientes/31.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/jcb/clientes/34.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/jcb/clientes/23.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/jcb/clientes/24.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/jcb/clientes/27.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/jcb/clientes/29.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/jcb/clientes/31.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/jcb/clientes/34.jpg" />
     <entry file="file://$PROJECT_DIR$/cliente.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -840,8 +848,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vial_2_puente_arica.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="72" column="64" selection-start-line="72" selection-start-column="35" selection-end-line="72" selection-end-column="64" />
+        <state relative-caret-position="170">
+          <caret line="76" column="40" lean-forward="true" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/jcb/nosotros_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edificacion_2_early_years_newton.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="78" column="25" lean-forward="true" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
         </state>
       </provider>
     </entry>
