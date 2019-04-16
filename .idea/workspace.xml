@@ -2,32 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ac8ab2c-1970-429c-bef1-7bac27ad53b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/jcb/banners/industrial4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/banners/vial5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/4_Almacenes_Codijisa/almacenes_codijisa_0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/4_Almacenes_Codijisa/almacenes_codijisa_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/4_Almacenes_Codijisa/almacenes_codijisa_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/4_Almacenes_Codijisa/almacenes_codijisa_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/4_Almacenes_Codijisa/almacenes_codijisa_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/4_Almacenes_Codijisa/almacenes_codijisa_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/4_Almacenes_Codijisa/almacenes_codijisa_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/2_industrial/4_Almacenes_Codijisa/almacenes_codijisa_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/5_puente_circunvalacion/puente_circunvalacion_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/5_puente_circunvalacion/puente_circunvalacion_10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/5_puente_circunvalacion/puente_circunvalacion_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/5_puente_circunvalacion/puente_circunvalacion_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/5_puente_circunvalacion/puente_circunvalacion_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/5_puente_circunvalacion/puente_circunvalacion_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/5_puente_circunvalacion/puente_circunvalacion_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/5_puente_circunvalacion/puente_circunvalacion_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/5_puente_circunvalacion/puente_circunvalacion_8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jcb/proyectos/4_vial/5_puente_circunvalacion/puente_circunvalacion_9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/industrial_4_almacenes_codijisa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vial_5_puente_circunvalacion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jcb/banners/retail1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/banners/retail1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/industrial.html" beforeDir="false" afterPath="$PROJECT_DIR$/industrial.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vial.html" beforeDir="false" afterPath="$PROJECT_DIR$/vial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jcb/nosotros_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jcb/nosotros_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nosotros.html" beforeDir="false" afterPath="$PROJECT_DIR$/nosotros.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,42 +30,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vial.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/util.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="392" column="15" lean-forward="true" selection-start-line="392" selection-start-column="15" selection-end-line="392" selection-end-column="15" />
-              <folding>
-                <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#3;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#4;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#4;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#4;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#4;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state>
+              <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/industrial_4_almacenes_codijisa.html">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2612">
-              <caret line="248" column="18" selection-start-line="248" selection-start-column="18" selection-end-line="248" selection-end-column="18" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#5;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#6;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2906">
+              <caret line="219" column="44" selection-start-line="219" selection-start-column="44" selection-end-line="219" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nosotros.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
             </state>
           </provider>
         </entry>
@@ -142,7 +126,6 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/css/base.css" />
-        <option value="$PROJECT_DIR$/nosotros.html" />
         <option value="$PROJECT_DIR$/proveedores.html" />
         <option value="$PROJECT_DIR$/contacto.html" />
         <option value="$PROJECT_DIR$/js/util.js" />
@@ -180,6 +163,7 @@
         <option value="$PROJECT_DIR$/industrial_4_almacenes_codijisa.html" />
         <option value="$PROJECT_DIR$/vial_5_puente_circunvalacion.html" />
         <option value="$PROJECT_DIR$/vial.html" />
+        <option value="$PROJECT_DIR$/nosotros.html" />
       </list>
     </option>
   </component>
@@ -226,42 +210,6 @@
             <path>
               <item name="jcb" type="b2602c69:ProjectViewProjectNode" />
               <item name="jcb" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="jcb" type="462c0819:PsiDirectoryNode" />
-              <item name="banners" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jcb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jcb" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="jcb" type="462c0819:PsiDirectoryNode" />
-              <item name="proyectos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jcb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jcb" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="jcb" type="462c0819:PsiDirectoryNode" />
-              <item name="proyectos" type="462c0819:PsiDirectoryNode" />
-              <item name="4_vial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jcb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jcb" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="jcb" type="462c0819:PsiDirectoryNode" />
-              <item name="proyectos" type="462c0819:PsiDirectoryNode" />
-              <item name="4_vial" type="462c0819:PsiDirectoryNode" />
-              <item name="5_puente_circunvalacion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jcb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jcb" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jcb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jcb" type="462c0819:PsiDirectoryNode" />
               <item name="videos" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -284,11 +232,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\sources\alpima\jcb\images\jcb" />
       <recent name="C:\sources\alpima\jcb" />
       <recent name="C:\sources\alpima\jcb\images\jcb\proyectos\4_vial\5_puente_circunvalacion" />
       <recent name="C:\sources\alpima\jcb\images\jcb\banners" />
       <recent name="C:\sources\alpima\jcb\images\jcb\proyectos\2_industrial\4_Almacenes_Codijisa" />
-      <recent name="C:\sources\alpima\jcb\images\jcb\proyectos\5_edificacion\2_Early_years_Newton" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -542,13 +490,37 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158786000" />
+    <option name="totallyTimeSpent" value="158887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30408472" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28971255" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.23076923" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.23404256" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50053304" side_tool="true" weight="0.3629469" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.18078668" />
+      <window_info anchor="right" id="Database" order="4" weight="0.14977308" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29500756" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -562,7 +534,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.23076923" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.23404256" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.55973816" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50053304" side_tool="true" weight="0.3629469" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -570,7 +542,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.18078668" />
       <window_info anchor="right" id="Database" order="4" weight="0.14977308" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -606,9 +578,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="cambios 5" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/jcb/banners/retail5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/jcb/banners/retail6.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -699,9 +668,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/jcb/nosotros_2.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/retail_3_foodhall_jockeyplaza.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -842,8 +808,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/util.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+        <state>
+          <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -956,6 +922,16 @@
             <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#4;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/jcb/nosotros_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nosotros.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
         </state>
       </provider>
     </entry>
