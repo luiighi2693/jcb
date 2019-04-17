@@ -68,6 +68,7 @@
         <!--</section>-->
 
         <section id="nosotros31" style="position: relative; margin-top: 90px;display: inline-block;">
+            <img id="banner1" src="images/jcb/banners/vial1.png" style="    position: absolute;width: 85%;left: 50%;transform: translate(-50%, -50%);top: 15%;opacity: 0.95;">
             <!--<img id="banner1" src="images/jcb/banners/retail3.png" style="    position: absolute;width: 85%;left: 50%;transform: translate(-50%, -50%);top: 15%;opacity: 0.95;">-->
             <!--<video id="videoPreview"  controls style="width: 100%; height: auto;">-->
             <!--<source src=videos/VIAL%20-%20Acceso%20Puente%20Comuneros%20-%20Huancayo_1.mp4 type=video/mp4>-->
@@ -244,6 +245,10 @@
 
             isResize = true;
             setInterval(checkIfResize, 1000);
+
+            bannerArray = [1];
+            isVideo = true;
+            startTimeOut();
         });
 
         $(window).load(function() {
