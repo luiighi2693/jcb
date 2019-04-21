@@ -3087,3 +3087,44 @@ video {
 .jcbCustomBackground2 {
   background-image: url("../images/jcb/fondo_celeste.png");
 }
+
+
+
+
+
+
+
+
+
+/* Iframe wrapper that allows to make youtube iframe responsive */
+.iframe-wrapper {
+  position: relative;
+  height: 0;
+  max-width: 100%;
+}
+
+/* Responsive iframe styles */
+iframe {
+  /* position: absolute; */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Adding pseudo element to iframe parent */
+.iframe-wrapper:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  display: block;
+}
+
+/* Adding hover effect to pseudo element */
+.iframe-wrapper:hover:after {
+  content: none;
+}
