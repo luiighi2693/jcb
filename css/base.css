@@ -548,12 +548,12 @@ textarea {
   }
 }
 
-@media (min-width: 769px) and (max-width: 970px) {
-  .footer-logo {
-    width: 100px !important;
-    height: 60px !important;
-  }
-}
+/*@media (min-width: 769px) and (max-width: 970px) {*/
+  /*.footer-logo {*/
+    /*width: 100px !important;*/
+    /*height: 60px !important;*/
+  /*}*/
+/*}*/
 
 
 /* ------------------------------------------------------------------- 

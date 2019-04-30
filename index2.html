@@ -65,7 +65,7 @@
             <!--</div>-->
         <!--</section>-->
 
-        <section id="nosotros0" style="position: relative;background-color: #03314b;margin-top: 90px;display: inline-block;">
+        <section id="nosotros31" style="position: relative;background-color: #03314b;display: inline-block;">
             <video id="videoPreview"  autoplay="autoplay" loop="loop" style="width: 100%; height: auto;">
                 <source src=videos/intro_jcb.mp4 type=video/mp4>
                 <!--<source src=http://demo.jcbestructuras.com/videos/intro_jcb.mp4 type=video/mp4>-->
@@ -109,25 +109,9 @@
                 let images = ['homeImage', 'aboutImage', 'misionImage', 'visionImage', 'visionImage2', 'visionImage3'];
 
                 if (checkIfMobile()){
-                    // console.log('mobile on');
-                    //
-                    // $('.home-scrolldown').css('display', 'none');
-                    //
-                    // // images.push('valoresImage');
-                    // images.forEach(image => {
-                    //     $('#'+image+'')
-                    //         .height( ( ($('#'+image+'').width() / 2500) *1080));
-                    // });
-                    //
-                    // $('#valoresImage')
-                    //     // .width($(window).width().toString())
-                    //     .height( ( ($('#valoresImage').width() / 2500) *1080) + 170);
-                    //
-                    // $('#blank').height(40);
-                    //
-                    // $('#dropDownParentList').css('display', 'none');
-                    // $('#creditMobile').css('display', 'inline-block');
+                    processMobile();
                 } else {
+                    processWeb();
                     $('img[usemap]').rwdImageMaps();
 
                     $('.home-scrolldown').css('display', 'block');
@@ -139,14 +123,6 @@
                             .height($(window).height().toString());
                     });
 
-                    // $('#valoresImage')
-                    //     .width($(window).width().toString())
-                    //     .height( ($(window).height() + 70).toString());
-                    // $('#videoPreview')
-                    //     .width($(window).width().toString())
-                    //     .height( ($(window).height()).toString() - 90);
-
-                    // $('#blank').height(90);
                     $('#dropDownParentList').css('display', 'inline-block');
                     $('#creditMobile').css('display', 'none');
                 }
@@ -162,6 +138,7 @@
         $(document).ready(function(e) {
             $('#headerComponent').load('components/header.html');
             $('#footerComponent').load('components/footer.html');
+            screeenType = 'intro';
 
             // $('#homeArea').on('click', function() {
             //     goTo('aboutUs');

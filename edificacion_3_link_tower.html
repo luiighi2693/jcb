@@ -81,6 +81,7 @@
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
                         <div class="item active">
+                            <img id="banner1" src="images/jcb/banners/energiayminas1.png" style="    position: absolute;width: 85%;left: 50%;transform: translate(-50%, -50%);top: 15%;opacity: 0.95;">
                             <img src="images/jcb/proyectos/5_edificacion/3_Link_Tower/link_tower_1.jpg" alt="First slide">
                         </div>
                         <div class="item">
@@ -221,6 +222,9 @@
 
             isResize = true;
             setInterval(checkIfResize, 1000);
+
+            bannerArray = [1];
+            startTimeOut();
         });
 
         $(window).load(function() {

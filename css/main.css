@@ -1334,7 +1334,7 @@ h1.intro-header::before {
 @media only screen and (max-width: 768px) {
   .header-logo a {
     width: 88px;
-    height: 20px;
+    height: 50px;
     background-size: 88px 50px;
   }
   #header-nav-wrap {
@@ -1344,7 +1344,7 @@ h1.intro-header::before {
     right: auto;
     left: 0;
     background-color: #111111;
-    padding: 40px 40px 0px;
+    padding: 70px 40px 0px;
   }
   #header-nav-wrap .header-main-nav {
     display: block;
@@ -1359,7 +1359,7 @@ h1.intro-header::before {
     border-bottom: 1px solid rgba(255, 255, 255, 0.03);
   }
   #header-nav-wrap .header-main-nav li a {
-    padding: 18px 0;
+    padding: 0;
     line-height: 18px;
   }
   #header-nav-wrap .cta {
@@ -3086,4 +3086,278 @@ video {
 
 .jcbCustomBackground2 {
   background-image: url("../images/jcb/fondo_celeste.png");
+}
+
+
+.footer-row-tittle {
+  color: white;
+  padding-bottom: 5px !important;
+  margin-bottom: 0 !important;
+  font-weight: bold;
+}
+.footer-row-content {
+  color: white !important;
+}
+
+@media (max-width: 895px) {
+  .footer-row-tittle {
+    font-size: 1.5rem !important;
+  }
+  .footer-row-content {
+    font-size: 1.3rem !important;
+  }
+
+}
+
+@media (max-width: 955px) {
+
+  .footer-address-content {
+    padding-top: 0 !important;
+  }
+}
+
+.footer-address-content {
+  padding-top: 5.5%;
+}
+
+.footer-row-block {
+  display: block;
+}
+.footer-row-responsive-block {
+  display: none;
+}
+
+.header-menu-web{
+  display: inline-block !important;
+}
+.header-menu-responsive{
+  display: none !important;
+}
+
+@media (max-width: 768px) {
+  .footer-row-block {
+    display: none !important;
+  }
+  .footer-row-responsive-block {
+    display: block !important;
+  }
+
+
+  .header-menu-web{
+    display: none !important;
+  }
+  .header-menu-responsive{
+    display: block !important;
+  }
+}
+
+.footer-main-block {
+  padding-top: 4rem;
+  background-color: #03314b;
+  padding-bottom: 0 !important;
+  position: relative;
+}
+
+#nosotros31{
+  margin-top: 90px !important;
+}
+
+.aboutUsCarouselLabel{
+  margin-top: 90px !important;
+  position: absolute;
+  padding-left: 4%;
+  padding-top: 2%;
+  font-size: 4.25rem;
+  color: #ffffff;
+}
+
+.aboutUsAboutUsLabel{
+  position: absolute;
+  font-size: 4.25rem;
+  color: #ffffff;
+  top: 50%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+}
+
+.aboutUsDesignLabel{
+  position: absolute;
+  font-size: 4.25rem;
+  color: #ffffff;
+  top: 25%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  padding-left: 1%;
+}
+
+.aboutUsVisionContent{
+  position: absolute;
+  font-size: 4.25rem;
+  color: #ffffff;
+  top: 25%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  padding-left: 1%;
+}
+
+.aboutUsParragraph1{
+  font-size: 2.5rem;
+  color: #03314b;
+  background-color: white;
+  padding: 6% 5% 4% 16%;
+  font-weight: bold;
+  line-height: initial;
+}
+
+.aboutUsDesignLabelLine{
+  border: 1px #03314b solid;
+  margin-top: 0 !important;
+}
+
+.aboutUsDesignLabelSubContent{
+  font-size: 2.5rem;
+  color: #03314b !important;
+}
+
+.aboutUsSpecialistContent{
+    font-size: 3rem;
+    color: #ffffff;
+    padding-left: 10%;
+}
+
+.aboutUsSpecialistBackSpace{
+    display: block;
+}
+
+.aboutUsSpecialistContainer{
+  margin-top: 90px !important;
+  position: absolute;
+  padding-left: 55%;
+  padding-top: 0;
+}
+
+.aboutUsSpecialistBullet{
+  width: 4%;
+  margin-top: -6px;
+  margin-right: 20px;
+}
+
+.aboutUsSpecialistBullet2{
+  width: 4%;
+  margin-top: -8px;
+  margin-right: 20px;
+}
+
+.aboutUsVisionTittle{
+  font-size: 4.25rem;
+  color: #03314b;
+}
+
+.aboutUsVisionParragraph{
+  font-size: 2.5rem;
+  color: #03314b;
+  margin-right: 40%;
+  font-weight: bold;
+  line-height: initial;
+}
+
+@media (max-width: 500px) {
+  #nosotros31 {
+    margin-top: 40px !important;
+  }
+
+  .aboutUsCarouselLabel{
+    margin-top: 0 !important;
+    font-size: 2.25rem;
+  }
+
+  .aboutUsDesignLabel{
+    top: 40%;
+  }
+
+  .aboutUsVisionContent{
+    top: 40%;
+  }
+
+  .aboutUsAboutUsLabel{
+    font-size: 2.25rem;
+  }
+
+  .aboutUsParragraph1{
+    font-size: 1.5rem !important;
+    padding: 6% 5% 4% 6%;
+  }
+
+  .aboutUsDesignLabelLine{
+    margin-bottom: 0 !important;
+  }
+
+  .aboutUsDesignLabelSubContent{
+    font-size: 1.0rem !important;
+  }
+
+    .aboutUsSpecialistContent {
+        font-size: 0.8rem !important;
+    }
+
+    .aboutUsSpecialistBullet {
+      margin-right: 10px !important;
+    }
+
+    .aboutUsSpecialistBullet2 {
+      margin-right: 10px !important;
+    }
+
+    .aboutUsVisionTittle {
+      font-size: 2.25rem !important;
+    }
+
+    .aboutUsVisionParragraph {
+      font-size: 0.8rem !important;
+    }
+}
+
+@media (max-width: 650px) {
+    .aboutUsDesignLabel{
+        font-size: 1.75rem;
+    }
+    .aboutUsVisionContent{
+        font-size: 1.75rem;
+    }
+
+    .aboutUsSpecialistBackSpace{
+        display: none !important;
+    }
+
+    .aboutUsSpecialistContainer{
+        margin-top: 30px !important;
+    }
+}
+
+@media (min-width: 650px) {
+  .aboutUsDesignLabel{
+    top: 45% !important;
+  }
+  .aboutUsVisionContent{
+    top: 45% !important;
+  }
+
+}
+
+@media (max-width: 650px) and (min-width: 501px){
+
+  .aboutUsVisionTittle {
+    font-size: 2.25rem !important;
+  }
+
+  .aboutUsVisionParragraph {
+    font-size: 1.2rem !important;
+  }
+
+}
+
+@media (max-width: 768px) and (min-width: 501px){
+    .aboutUsSpecialistContent {
+        font-size: 1.2rem !important;
+    }
 }
