@@ -94,6 +94,8 @@ function processMobile() {
 
         $('#header-nav-wrap').height($('html body').height());
 
+        $('.nbs-flexisel-inner').css('display', 'none');
+
         if (screeenType === 'intro'){
             $('#footer-main-block').height($('html body').height() - 40 - $('#videoPreview').height());
 
@@ -126,6 +128,8 @@ function processMobile() {
             .css('left', '0')
             .css('transform', 'none')
             .css('-ms-transform', 'none');
+
+        $('.nbs-flexisel-inner').css('display', 'block')
     }
 }
 
@@ -138,4 +142,6 @@ function processWeb() {
         .css('left', '0')
         .css('transform', 'none')
         .css('-ms-transform', 'none');
+
+    $('.nbs-flexisel-inner').css('display', 'block')
 }
