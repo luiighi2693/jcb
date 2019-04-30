@@ -3307,6 +3307,18 @@ video {
   position: relative;
 }
 
+.proveedorsContent{
+  font-size: 1.6rem !important;
+}
+
+#contactUsFormWeb{
+  display: block;
+}
+
+#contactUsFormMobile{
+  display: none;
+}
+
 @media (max-width: 500px) {
   #nosotros31 {
     margin-top: 40px !important;
@@ -3366,6 +3378,10 @@ video {
     .aboutUsVisionParragraph {
       font-size: 0.8rem !important;
     }
+
+  .proveedorsContent{
+    font-size: 0.9rem !important;
+  }
 }
 
 @media (max-width: 650px) {
@@ -3431,6 +3447,14 @@ video {
 
   .imagesWithoutCarousel{
     display: inline-block !important;
+  }
+
+  #contactUsFormWeb{
+    display: none !important;
+  }
+
+  #contactUsFormMobile{
+    display: block !important;
   }
 }
 

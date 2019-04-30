@@ -55,7 +55,7 @@
     <div id="headerComponent"></div>
 
     <div id="mainContent">
-        <section style="padding-top: 10%;    padding-left: 3%;">
+        <section id="nosotros31" style="position: relative;display: inline-block; padding-left: 3%;">
             <h1 class="jcbFontBold" style="color: #03314b; font-weight: bold">CONTÁCTANOS</h1>
         </section>
 
@@ -64,7 +64,22 @@
                 <div style="width:40%; line-height: 1;     padding: 0 2% 2% 2%;">
                     <div id="map"></div>
                 </div>
-                <div style="width: 60%; padding-right: 10%">
+                <div id="contactUsFormWeb" style="width: 60%; padding-right: 5%;padding-left: 5%;">
+                    <input type="text" placeholder="NOMBRE Y APELLIDOS" style="    background-color: white; width: 100%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0;"/>
+                    <div style="display: flex;">
+                        <input type="text" placeholder="DNI" style="    background-color: white; width: 47%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0; margin-top: 3%;"/>
+                        <input type="text" placeholder="CELULAR" style="    background-color: white; width: 48%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0; margin-top: 3%; margin-left: 5%;"/>
+                    </div>
+                    <input type="text" placeholder="CORREO ELECTRÓNICO" style="    background-color: white; width: 100%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0; margin-top: 3%;"/>
+                    <textarea rows="6" placeholder="MENSAJE" style="    background-color: white; width: 100%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0; margin-top: 3%;"></textarea>
+                    <a href="#"><img src="images/jcb/botonEnviar.png" style="    width: 200px; float: right; margin-left: auto; margin-right: auto; display: block;"/></a>
+                </div>
+            </div>
+        </section>
+
+        <section id="contactUsFormMobile" class="contacto" style="    margin-top: 5%;margin-left: 5%;">
+            <div style="display: flex;">
+                <div style="width: 100%; padding-right: 5%">
                     <input type="text" placeholder="NOMBRE Y APELLIDOS" style="    background-color: white; width: 100%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0;"/>
                     <div style="display: flex;">
                         <input type="text" placeholder="DNI" style="    background-color: white; width: 47%; height: 4rem; margin-bottom: 1rem; border: 1px solid; border-radius: 0; margin-top: 3%;"/>
@@ -91,8 +106,8 @@
         var map;
         function initMap() {
             map = new google.maps.Map(document.getElementById('map'), {
-                center: {lat: -34.397, lng: 150.644},
-                zoom: 8
+                center: {lat: -12.1595707, lng: -77.0256583},
+                zoom: 16
             });
         }
 
@@ -100,7 +115,17 @@
             if (isResize) {
 
                 if (checkIfMobile()){
+                    processMobile();
+
+                    $('#map')
+                        .width($(window).width())
+                        .height( ($('#map').width() * 0.70));
                 } else {
+                    processWeb();
+
+                    $('#map')
+                        .width($(window).width() * 0.40)
+                        .height( ($(window).height() - 90));
 
                     $('.home-scrolldown').css('display', 'block');
 
