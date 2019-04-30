@@ -51,10 +51,10 @@
 
     <div id="mainContent">
 
-        <section id="nosotros2" style="background-color: black;">
-            <span class="jcbFontBold" style="margin-top: 90px !important; position: absolute; padding-left: 65%; padding-top: 25%; font-size: 4.25rem; color: #ffffff; line-height: 45px;">CLIENTES</span>
+        <section id="nosotros31" style="position: relative;display: inline-block;">
+            <span class="jcbFontBold aboutUsAboutUsLabel">CLIENTES</span>
             <div style="display: flex;">
-                <img name="misionImage" src="images/jcb/clientes.jpg" width="1920" height="1080" border="0" id="misionImage" alt="" style="width: 100%; height: auto; margin-top: 90px;"/>
+                <img name="misionImage" src="images/jcb/clientes.jpg" width="1920" height="1080" border="0" id="misionImage" alt="" style="width: 100%; height: auto;"/>
             </div>
         </section>
 
@@ -247,25 +247,15 @@
                 let images = ['homeImage', 'aboutImage', 'misionImage','misionImage2','misionImage3', 'misionImage4', 'visionImage', 'visionImage2', 'visionImage3'];
 
                 if (checkIfMobile()){
-                    // console.log('mobile on');
-                    //
-                    // $('.home-scrolldown').css('display', 'none');
-                    //
-                    // // images.push('valoresImage');
-                    // images.forEach(image => {
-                    //     $('#'+image+'')
-                    //         .height( ( ($('#'+image+'').width() / 2500) *1080));
-                    // });
-                    //
-                    // $('#valoresImage')
-                    //     // .width($(window).width().toString())
-                    //     .height( ( ($('#valoresImage').width() / 2500) *1080) + 170);
-                    //
-                    // $('#blank').height(40);
-                    //
-                    // $('#dropDownParentList').css('display', 'none');
-                    // $('#creditMobile').css('display', 'inline-block');
+                    processMobile();
+
+                    images.forEach(image => {
+                        $('#'+image+'')
+                            .height( ( ($('#'+image+'').width() / 1920) *1080));
+                    });
+
                 } else {
+                    processWeb();
                     $('img[usemap]').rwdImageMaps();
 
                     $('.home-scrolldown').css('display', 'block');
@@ -273,8 +263,7 @@
                     images.forEach(image => {
                         $('#'+image+'')
                             .width($(window).width().toString())
-                            // .height($(window).height().toString() - 72);
-                            .height($(window).height().toString());
+                            .height($(window).height().toString() -90);
                     });
 
                     // $('#misionImage4')
