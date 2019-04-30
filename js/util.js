@@ -41,6 +41,7 @@ function checkNavegation() {
 }
 
 let bannerTimeOut = null;
+let projectTimeOut = null;
 let bannerArray = [];
 let isVideo = false;
 let screeenType = '';
@@ -144,4 +145,15 @@ function processWeb() {
         .css('-ms-transform', 'none');
 
     $('.nbs-flexisel-inner').css('display', 'block')
+}
+
+function goToProject(project) {
+    if ($('html body').width() <= 500) {
+        clearTimeout(projectTimeOut);
+        projectTimeOut = setTimeout(function(){
+            window.location = project;
+        }, 2500);
+    } else {
+        window.location = project;
+    }
 }

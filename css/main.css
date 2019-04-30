@@ -3319,6 +3319,32 @@ video {
   display: none;
 }
 
+.proejctTittle{
+  position: relative;
+  margin-top: 90px;
+  display: inline-block;
+  padding-top: 2%;
+  padding-bottom: 1.5%;
+  padding-left: 3%;
+  width: 100%;
+  font-size: 6rem;
+  font-weight: bold;
+  color: white;
+}
+
+.proejctTittle2{
+  position: relative;
+  margin-top: 90px;
+  display: inline-block;
+  padding-top: 2%;
+  padding-bottom: 1.5%;
+  padding-left: 3%;
+  width: 100%;
+  font-size: 6rem;
+  font-weight: bold;
+  color: white;
+}
+
 @media (max-width: 500px) {
   #nosotros31 {
     margin-top: 40px !important;
@@ -3381,6 +3407,14 @@ video {
 
   .proveedorsContent{
     font-size: 0.9rem !important;
+  }
+
+  .proejctTittle{
+    font-size: 4rem !important;
+  }
+
+  .proejctTittle2{
+    font-size: 3rem !important;
   }
 }
 

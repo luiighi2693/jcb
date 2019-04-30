@@ -45,90 +45,41 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 
+    <style>
+
+        @media only screen and (max-width: 500px) {
+            .row .row {
+                padding-left: 0;
+                padding-right: 0;
+                margin-left: 0;
+                margin-right: 0;
+            }
+            [class*="col-"] {
+                width: 100% !important;
+                float: none !important;
+                clear: both !important;
+                margin-left: 0;
+                margin-right: 0;
+                padding: 0;
+            }
+            [class*="col-"]+[class*="col-"].end {
+                float: none;
+            }
+        }
+    </style>
+
 </head>
 
 <body id="top" onresize="resizeScreen()">
     <div id="headerComponent"></div>
 
     <div id="mainContent">
-        <!--<section id="blank" style="height: 72px;">-->
-            <!--this is a demo-->
-        <!--</section>-->
-
-        <!--<section id="home1" style="background-color: black;">-->
-            <!--<div style="display: flex;">-->
-                <!--<img name="homeImage" src="images/hatun/para-vivir-mejor.jpg" width="2500" height="1080" border="0" id="homeImage" usemap="#m_homeImage" alt="" style="max-width: 100%; height: auto;"/>-->
-
-                <!--<div class="home-scrolldown" style="right: 48% !important;">-->
-                    <!--<a href="#aboutUs" class="scroll-icon" id="homeArea">-->
-                        <!--<img src="images/hatun/yellow_row.png" width="25px" height="25px" style="transform: rotate(30deg);">-->
-                    <!--</a>-->
-                <!--</div>-->
-            <!--</div>-->
-        <!--</section>-->
-
-        <!--<section id="nosotros2" style="background-color: black;">-->
-            <!--<span class="jcbFontBold" style="margin-top: 90px !important; position: absolute; padding-left: 65%; padding-top: 25%; font-size: 4.25rem; color: #ffffff; line-height: 45px;">TRANSPORTE &<br>MAQUINARIA</span>-->
-            <!--<div style="display: flex;">-->
-                <!--<img name="misionImage" src="images/jcb/transporte_1.jpg" width="1920" height="1080" border="0" id="misionImage" usemap="#m_misionImage" alt="" style="width: 100%; height: auto;"/>-->
-                <!--<map name="m_misionImage" id="m_misionImage">-->
-                    <!--<area id="nosotrosArea2" shape="poly" coords="932,982,977,981,955,1020" title="Mision" alt="Mision" />-->
-                <!--</map>-->
-            <!--</div>-->
-        <!--</section>-->
-
-        <section id="projectTitle" style="background-color: #a2238e;position: relative;margin-top: 90px;display: inline-block;padding-top: 2%;padding-bottom: 1.5%;padding-left: 3%;width: 100%;font-size: 6rem;font-weight: bold;color: white;">
+        <section id="nosotros31" class="proejctTittle" style="background-color: #a2238e;">
             <span>EDIFICACIÓN</span>
         </section>
 
-        <!--<section id="nosotros32" style="background-color: white; position: relative;">-->
-            <!--<div class="container" style="    margin-left: 0;margin-right: 0;max-width: 100%; width: 100%;">-->
-                <!--<div class="row grid" style="    width: 100%;max-width: 100%;">-->
-                    <!--<div class="single-portfolio col-sm-6 all vector" style="    padding-bottom: 3%;">-->
-                        <!--<div class="relative">-->
-                            <!--<div class="thumb">-->
-                                <!--<div class="overlay overlay-bg" style="    margin: 10%; background: -webkit-linear-gradient(0deg, #a2238e 0%, #a2238e 100%);"></div>-->
-                                <!--<img class="image img-fluid" id="mainImage1" src="#" alt="">-->
-                            <!--</div>-->
-                            <!--<a id="htmlLink1" href="#" class="img-pop-up">-->
-                                <!--<div class="middle">-->
-                                    <!--<div class="text align-self-center d-flex" style="line-height: normal;">-->
-                                        <!--<div style="border-bottom: 2px solid;">-->
-                                            <!--<span id="label1">C.C. PARQUE</span><br>-->
-                                            <!--<span id="label2" style="font-size: 1.5rem;">LAMBRAMANI</span>-->
-                                        <!--</div>-->
-                                        <!--<span style="font-size: 1.5rem;">edificación</span>-->
-                                    <!--</div>-->
-                                <!--</div>-->
-                            <!--</a>-->
-                        <!--</div>-->
-                    <!--</div>-->
-
-                    <!--<div class="single-portfolio col-sm-6 all vector" style="    padding-bottom: 3%;">-->
-                        <!--<div class="relative">-->
-                            <!--<div class="thumb">-->
-                                <!--<div class="overlay overlay-bg" style="    margin: 10%; background: -webkit-linear-gradient(0deg, #a2238e 0%, #a2238e 100%);"></div>-->
-                                <!--<img class="image img-fluid" id="mainImage2" src="#" alt="">-->
-                            <!--</div>-->
-                            <!--<a id="htmlLink2" href="#" class="img-pop-up">-->
-                                <!--<div class="middle">-->
-                                    <!--<div class="text align-self-center d-flex" style="line-height: normal;">-->
-                                        <!--<div style="border-bottom: 2px solid;">-->
-                                            <!--<span id="label3">C.C. PARQUE</span><br>-->
-                                            <!--<span id="label4" style="font-size: 1.5rem;">LAMBRAMANI</span>-->
-                                        <!--</div>-->
-                                        <!--<span style="font-size: 1.5rem;">edificación</span>-->
-                                    <!--</div>-->
-                                <!--</div>-->
-                            <!--</a>-->
-                        <!--</div>-->
-                    <!--</div>-->
-                <!--</div>-->
-            <!--</div>-->
-        <!--</section>-->
-
         <section id="nosotros32" style="background-color: white; position: relative;">
-            <div class="container" style="    margin-left: 0;margin-right: 0;max-width: 100%; width: 100%;">
+            <div class="container" style="    margin-left: 0;margin-right: 0;max-width: 100%; width: 100%;     padding-right: 0 !important;padding-left: 30px; !important;">
                 <div class="row grid" style="    width: 100%;max-width: 100%;     padding: 4% 0% 0% 0%;">
                     <div class="single-portfolio col-lg-6 col-md-6 col-xs-6 all vector" style="    padding-bottom: 3%;">
                         <div class="relative">
@@ -136,7 +87,7 @@
                                 <div class="overlay overlay-bg" style="background: -webkit-linear-gradient(0deg, #a2238e 0%, #a2238e 100%);"></div>
                                 <img class="image img-fluid" src="images/jcb/proyectos/5_edificacion/1_Corredor_Yarinacocha/corredor_yarinacocha_1.jpg" alt="">
                             </div>
-                            <a href="edificacion_1_corredor_yarinacocha.html" class="img-pop-up">
+                            <a onclick="goToProject('edificacion_1_corredor_yarinacocha.html')" class="img-pop-up">
                                 <div class="middle">
                                     <div class="text align-self-center d-flex" style="line-height: normal;">
                                         <div style="border-bottom: 2px solid;">
@@ -160,7 +111,7 @@
                                 <div class="overlay overlay-bg" style="background: -webkit-linear-gradient(0deg, #a2238e 0%, #a2238e 100%);"></div>
                                 <img class="image img-fluid" src="images/jcb/proyectos/5_edificacion/2_Early_years_Newton/early_years_newton_1.jpg" alt="">
                             </div>
-                            <a href="edificacion_2_early_years_newton.html" class="img-pop-up">
+                            <a onclick="goToProject('edificacion_2_early_years_newton.html')" class="img-pop-up">
                                 <div class="middle">
                                     <div class="text align-self-center d-flex" style="line-height: normal;">
                                         <div style="border-bottom: 2px solid;">
@@ -183,7 +134,7 @@
                                 <div class="overlay overlay-bg" style="background: -webkit-linear-gradient(0deg, #a2238e 0%, #a2238e 100%);"></div>
                                 <img class="image img-fluid" src="images/jcb/proyectos/5_edificacion/3_Link_Tower/link_tower_1.jpg" alt="">
                             </div>
-                            <a href="edificacion_3_link_tower.html" class="img-pop-up">
+                            <a onclick="goToProject('edificacion_3_link_tower.html')" class="img-pop-up">
                                 <div class="middle">
                                     <div class="text align-self-center d-flex" style="line-height: normal;">
                                         <div style="border-bottom: 2px solid;">
@@ -206,7 +157,7 @@
                                 <div class="overlay overlay-bg" style="background: -webkit-linear-gradient(0deg, #a2238e 0%, #a2238e 100%);"></div>
                                 <img class="image img-fluid" src="images/jcb/proyectos/5_edificacion/4_Newton/newton_1.jpg" alt="">
                             </div>
-                            <a href="edificacion_4_newton.html" class="img-pop-up">
+                            <a onclick="goToProject('edificacion_4_newton.html')" class="img-pop-up">
                                 <div class="middle">
                                     <div class="text align-self-center d-flex" style="line-height: normal;">
                                         <div style="border-bottom: 2px solid;">
@@ -229,7 +180,7 @@
                                 <div class="overlay overlay-bg" style="background: -webkit-linear-gradient(0deg, #a2238e 0%, #a2238e 100%);"></div>
                                 <img class="image img-fluid" src="images/jcb/proyectos/5_edificacion/5_UPC_Villa/upc_villa_1.jpg" alt="">
                             </div>
-                            <a href="edificacion_5_upc_villa.html" class="img-pop-up">
+                            <a onclick="goToProject('edificacion_5_upc_villa.html')" class="img-pop-up">
                                 <div class="middle">
                                     <div class="text align-self-center d-flex" style="line-height: normal;">
                                         <div style="border-bottom: 2px solid;">
@@ -251,7 +202,7 @@
                                 <div class="overlay overlay-bg" style="background: -webkit-linear-gradient(0deg, #a2238e 0%, #a2238e 100%);"></div>
                                 <img class="image img-fluid" src="images/jcb/proyectos/5_edificacion/6_cerramiento_estadio_complejo_deportivo_panamericano/cerramiento_estadio_complejo_deportivo_panamericano_1.jpg" alt="">
                             </div>
-                            <a href="edificacion_6_cerramiento_estadio_complejo_deportivo_panamericano.html" class="img-pop-up">
+                            <a onclick="goToProject('edificacion_6_cerramiento_estadio_complejo_deportivo_panamericano.html')" class="img-pop-up">
                                 <div class="middle">
                                     <div class="text align-self-center d-flex" style="line-height: normal;">
                                         <div style="border-bottom: 2px solid;">
@@ -273,7 +224,7 @@
                                 <div class="overlay overlay-bg" style="background: -webkit-linear-gradient(0deg, #a2238e 0%, #a2238e 100%);"></div>
                                 <img class="image img-fluid" src="images/jcb/proyectos/5_edificacion/7_techos_complejo_deportivo_panamericanos/techos_complejo_deportivo_panamericanos_1.jpg" alt="">
                             </div>
-                            <a href="edificacion_7_techos_complejo_deportivo_panamericanos.html" class="img-pop-up">
+                            <a onclick="goToProject('edificacion_7_techos_complejo_deportivo_panamericanos.html')" class="img-pop-up">
                                 <div class="middle">
                                     <div class="text align-self-center d-flex" style="line-height: normal;">
                                         <div style="border-bottom: 2px solid;">
@@ -336,25 +287,10 @@
                 let images = ['homeImage', 'aboutImage', 'misionImage','misionImage2','misionImage3', 'misionImage4', 'visionImage', 'visionImage2', 'visionImage3'];
 
                 if (checkIfMobile()){
-                    // console.log('mobile on');
-                    //
-                    // $('.home-scrolldown').css('display', 'none');
-                    //
-                    // // images.push('valoresImage');
-                    // images.forEach(image => {
-                    //     $('#'+image+'')
-                    //         .height( ( ($('#'+image+'').width() / 2500) *1080));
-                    // });
-                    //
-                    // $('#valoresImage')
-                    //     // .width($(window).width().toString())
-                    //     .height( ( ($('#valoresImage').width() / 2500) *1080) + 170);
-                    //
-                    // $('#blank').height(40);
-                    //
-                    // $('#dropDownParentList').css('display', 'none');
-                    // $('#creditMobile').css('display', 'inline-block');
+                    processMobile();
+
                 } else {
+                    processWeb();
                     $('.home-scrolldown').css('display', 'block');
 
                     // images.forEach(image => {

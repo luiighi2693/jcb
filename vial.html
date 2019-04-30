@@ -45,90 +45,42 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 
+    <style>
+
+        @media only screen and (max-width: 500px) {
+            .row .row {
+                padding-left: 0;
+                padding-right: 0;
+                margin-left: 0;
+                margin-right: 0;
+            }
+            [class*="col-"] {
+                width: 100% !important;
+                float: none !important;
+                clear: both !important;
+                margin-left: 0;
+                margin-right: 0;
+                padding: 0;
+            }
+            [class*="col-"]+[class*="col-"].end {
+                float: none;
+            }
+        }
+    </style>
+
 </head>
 
 <body id="top" onresize="resizeScreen()">
     <div id="headerComponent"></div>
 
     <div id="mainContent">
-        <!--<section id="blank" style="height: 72px;">-->
-            <!--this is a demo-->
-        <!--</section>-->
 
-        <!--<section id="home1" style="background-color: black;">-->
-            <!--<div style="display: flex;">-->
-                <!--<img name="homeImage" src="images/hatun/para-vivir-mejor.jpg" width="2500" height="1080" border="0" id="homeImage" usemap="#m_homeImage" alt="" style="max-width: 100%; height: auto;"/>-->
-
-                <!--<div class="home-scrolldown" style="right: 48% !important;">-->
-                    <!--<a href="#aboutUs" class="scroll-icon" id="homeArea">-->
-                        <!--<img src="images/hatun/yellow_row.png" width="25px" height="25px" style="transform: rotate(30deg);">-->
-                    <!--</a>-->
-                <!--</div>-->
-            <!--</div>-->
-        <!--</section>-->
-
-        <!--<section id="nosotros2" style="background-color: black;">-->
-            <!--<span class="jcbFontBold" style="margin-top: 90px !important; position: absolute; padding-left: 65%; padding-top: 25%; font-size: 4.25rem; color: #ffffff; line-height: 45px;">TRANSPORTE &<br>MAQUINARIA</span>-->
-            <!--<div style="display: flex;">-->
-                <!--<img name="misionImage" src="images/jcb/transporte_1.jpg" width="1920" height="1080" border="0" id="misionImage" usemap="#m_misionImage" alt="" style="width: 100%; height: auto;"/>-->
-                <!--<map name="m_misionImage" id="m_misionImage">-->
-                    <!--<area id="nosotrosArea2" shape="poly" coords="932,982,977,981,955,1020" title="Mision" alt="Mision" />-->
-                <!--</map>-->
-            <!--</div>-->
-        <!--</section>-->
-
-        <section id="projectTitle" style="background-color: #ec1d23;position: relative;margin-top: 90px;display: inline-block;padding-top: 2%;padding-bottom: 1.5%;padding-left: 3%;width: 100%;font-size: 6rem;font-weight: bold;color: white;">
+        <section id="nosotros31" class="proejctTittle" style="background-color: #ec1d23;">
             <span>VIAL</span>
         </section>
 
-        <!--<section id="nosotros32" style="background-color: white; position: relative;">-->
-            <!--<div class="container" style="    margin-left: 0;margin-right: 0;max-width: 100%; width: 100%;">-->
-                <!--<div class="row grid" style="    width: 100%;max-width: 100%;">-->
-                    <!--<div class="single-portfolio col-sm-6 all vector" style="    padding-bottom: 3%;">-->
-                        <!--<div class="relative">-->
-                            <!--<div class="thumb">-->
-                                <!--<div class="overlay overlay-bg" style="    margin: 10%; background: -webkit-linear-gradient(0deg, #ec1d23 0%, #ec1d23 100%);"></div>-->
-                                <!--<img class="image img-fluid" id="mainImage1" src="#" alt="">-->
-                            <!--</div>-->
-                            <!--<a id="htmlLink1" href="#" class="img-pop-up">-->
-                                <!--<div class="middle">-->
-                                    <!--<div class="text align-self-center d-flex" style="line-height: normal;">-->
-                                        <!--<div style="border-bottom: 2px solid;">-->
-                                            <!--<span id="label1">C.C. PARQUE</span><br>-->
-                                            <!--<span id="label2" style="font-size: 1.5rem;">LAMBRAMANI</span>-->
-                                        <!--</div>-->
-                                        <!--<span style="font-size: 1.5rem;">vial</span>-->
-                                    <!--</div>-->
-                                <!--</div>-->
-                            <!--</a>-->
-                        <!--</div>-->
-                    <!--</div>-->
-
-                    <!--<div class="single-portfolio col-sm-6 all vector" style="    padding-bottom: 3%;">-->
-                        <!--<div class="relative">-->
-                            <!--<div class="thumb">-->
-                                <!--<div class="overlay overlay-bg" style="    margin: 10%; background: -webkit-linear-gradient(0deg, #ec1d23 0%, #ec1d23 100%);"></div>-->
-                                <!--<img class="image img-fluid" id="mainImage2" src="#" alt="">-->
-                            <!--</div>-->
-                            <!--<a id="htmlLink2" href="#" class="img-pop-up">-->
-                                <!--<div class="middle">-->
-                                    <!--<div class="text align-self-center d-flex" style="line-height: normal;">-->
-                                        <!--<div style="border-bottom: 2px solid;">-->
-                                            <!--<span id="label3">C.C. PARQUE</span><br>-->
-                                            <!--<span id="label4" style="font-size: 1.5rem;">LAMBRAMANI</span>-->
-                                        <!--</div>-->
-                                        <!--<span style="font-size: 1.5rem;">vial</span>-->
-                                    <!--</div>-->
-                                <!--</div>-->
-                            <!--</a>-->
-                        <!--</div>-->
-                    <!--</div>-->
-                <!--</div>-->
-            <!--</div>-->
-        <!--</section>-->
-
         <section id="nosotros32" style="background-color: white; position: relative;">
-            <div class="container" style="    margin-left: 0;margin-right: 0;max-width: 100%; width: 100%;">
+            <div class="container" style="    margin-left: 0;margin-right: 0;max-width: 100%; width: 100%;     padding-right: 0 !important;padding-left: 30px; !important;">
                 <div class="row grid" style="    width: 100%;max-width: 100%;     padding: 4% 0% 0% 0%;">
                     <div class="single-portfolio col-lg-6 col-md-6 col-xs-6 all vector" style="    padding-bottom: 3%;">
                         <div class="relative">
@@ -136,7 +88,7 @@
                                 <div class="overlay overlay-bg" style="background: -webkit-linear-gradient(0deg, #ec1d23 0%, #ec1d23 100%);"></div>
                                 <img class="image img-fluid" src="images/jcb/proyectos/4_vial/1_Peajes/peajes_1.jpg" alt="">
                             </div>
-                            <a href="vial_1_peajes.html" class="img-pop-up">
+                            <a onclick="goToProject('vial_1_peajes.html')" class="img-pop-up">
                                 <div class="middle">
                                     <div class="text align-self-center d-flex" style="line-height: normal;">
                                         <div style="border-bottom: 2px solid;">
@@ -159,7 +111,7 @@
                                 <div class="overlay overlay-bg" style="background: -webkit-linear-gradient(0deg, #ec1d23 0%, #ec1d23 100%);"></div>
                                 <img class="image img-fluid" src="images/jcb/proyectos/4_vial/2_Puente%20Arica/puente_arica_1.jpg" alt="">
                             </div>
-                            <a href="vial_2_puente_arica.html" class="img-pop-up">
+                            <a onclick="goToProject('vial_2_puente_arica.html')" class="img-pop-up">
                                 <div class="middle">
                                     <div class="text align-self-center d-flex" style="line-height: normal;">
                                         <div style="border-bottom: 2px solid;">
@@ -182,7 +134,7 @@
                                 <div class="overlay overlay-bg" style="background: -webkit-linear-gradient(0deg, #ec1d23 0%, #ec1d23 100%);"></div>
                                 <img class="image img-fluid" src="images/jcb/proyectos/4_vial/3_Puente_Comuneros_Huancayo/puente_comuneros_1.jpg" alt="">
                             </div>
-                            <a href="vial_3_puentecomuneros_huancayo.html" class="img-pop-up">
+                            <a onclick="goToProject('vial_3_puentecomuneros_huancayo.html')" class="img-pop-up">
                                 <div class="middle">
                                     <div class="text align-self-center d-flex" style="line-height: normal;">
                                         <div style="border-bottom: 2px solid; font-size: 2rem;">
@@ -205,7 +157,7 @@
                                 <div class="overlay overlay-bg" style="background: -webkit-linear-gradient(0deg, #ec1d23 0%, #ec1d23 100%);"></div>
                                 <img class="image img-fluid" src="images/jcb/proyectos/4_vial/4_Puente%20Villena/puente_villena_1.jpg" alt="">
                             </div>
-                            <a href="vial_4_puente_villena.html" class="img-pop-up">
+                            <a onclick="goToProject('vial_4_puente_villena.html')" class="img-pop-up">
                                 <div class="middle">
                                     <div class="text align-self-center d-flex" style="line-height: normal;">
                                         <div style="border-bottom: 2px solid; font-size: 2rem;">
@@ -228,7 +180,7 @@
                                 <div class="overlay overlay-bg" style="background: -webkit-linear-gradient(0deg, #ec1d23 0%, #ec1d23 100%);"></div>
                                 <img class="image img-fluid" src="images/jcb/proyectos/4_vial/5_puente_circunvalacion/puente_circunvalacion_1.jpg" alt="">
                             </div>
-                            <a href="vial_5_puente_circunvalacion.html" class="img-pop-up">
+                            <a onclick="goToProject('vial_5_puente_circunvalacion.html')" class="img-pop-up">
                                 <div class="middle">
                                     <div class="text align-self-center d-flex" style="line-height: normal;">
                                         <div style="border-bottom: 2px solid; font-size: 2rem;">
@@ -297,25 +249,10 @@
                 let images = ['homeImage', 'aboutImage', 'misionImage','misionImage2','misionImage3', 'misionImage4', 'visionImage', 'visionImage2', 'visionImage3'];
 
                 if (checkIfMobile()){
-                    // console.log('mobile on');
-                    //
-                    // $('.home-scrolldown').css('display', 'none');
-                    //
-                    // // images.push('valoresImage');
-                    // images.forEach(image => {
-                    //     $('#'+image+'')
-                    //         .height( ( ($('#'+image+'').width() / 2500) *1080));
-                    // });
-                    //
-                    // $('#valoresImage')
-                    //     // .width($(window).width().toString())
-                    //     .height( ( ($('#valoresImage').width() / 2500) *1080) + 170);
-                    //
-                    // $('#blank').height(40);
-                    //
-                    // $('#dropDownParentList').css('display', 'none');
-                    // $('#creditMobile').css('display', 'inline-block');
+                    processMobile();
+
                 } else {
+                    processWeb();
                     $('.home-scrolldown').css('display', 'block');
 
                     // images.forEach(image => {
