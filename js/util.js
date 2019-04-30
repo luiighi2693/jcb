@@ -90,6 +90,13 @@ function showBanner() {
 
 function processMobile() {
 
+    if ($('html body').width() >= 642 || $('html body').width() <=767) {
+        console.log('hide carousel');
+        setTimeout(function(){
+            $('.nbs-flexisel-inner').css('display', 'none');
+        }, 200);
+    }
+
     if ($('html body').height() > $('html body').width()) { //mobile
         console.log('mobile');
 

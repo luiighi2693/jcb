@@ -3303,7 +3303,7 @@ video {
 }
 
 .imagesWithoutCarousel{
-  display: none;
+  display: none !important;
   position: relative;
 }
 
@@ -3333,6 +3333,26 @@ video {
 }
 
 .proejctTittle2{
+  position: relative;
+  margin-top: 90px;
+  display: inline-block;
+  padding-top: 2%;
+  padding-bottom: 1.5%;
+  padding-left: 3%;
+  width: 100%;
+  font-size: 6rem;
+  font-weight: bold;
+  color: white;
+}
+
+.proejctTittleDetail{
+  position: relative;
+  margin-top: 90px;
+  display: inline-block;
+  width: 100%;
+}
+
+.proejctTittle{
   position: relative;
   margin-top: 90px;
   display: inline-block;
@@ -3416,6 +3436,13 @@ video {
   .proejctTittle2{
     font-size: 3rem !important;
   }
+
+  #nosotros311{
+     margin-top: 0 !important;
+    width: 100%;
+    max-width: 100%;
+  }
+
 }
 
 @media (max-width: 650px) {
@@ -3489,6 +3516,11 @@ video {
 
   #contactUsFormMobile{
     display: block !important;
+  }
+
+
+  #footerComponent{
+    margin-top: 0 !important;
   }
 }
 
