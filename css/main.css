@@ -1343,7 +1343,7 @@ h1.intro-header::before {
     width: 100%;
     right: auto;
     left: 0;
-    background-color: #111111;
+    background-color: #03314b;
     padding: 70px 40px 0px;
   }
   #header-nav-wrap .header-main-nav {
@@ -1360,7 +1360,7 @@ h1.intro-header::before {
   }
   #header-nav-wrap .header-main-nav li a {
     padding: 0;
-    line-height: 18px;
+    line-height: 25px;
   }
   #header-nav-wrap .cta {
     height: 42px;
@@ -3314,14 +3314,6 @@ video {
   padding-right: 10%;
 }
 
-#contactUsFormWeb{
-  display: block;
-}
-
-#contactUsFormMobile{
-  display: none;
-}
-
 .proejctTittle{
   position: relative;
   margin-top: 90px;
@@ -3368,6 +3360,10 @@ video {
   color: white;
 }
 
+.hideElement{
+  display: none !important;
+}
+
 @media (max-width: 500px) {
   #nosotros31 {
     margin-top: 40px !important;
@@ -3380,6 +3376,7 @@ video {
 
   .aboutUsDesignLabel{
     top: 40%;
+    left: 20% !important;
   }
 
   .aboutUsVisionContent{
@@ -3392,7 +3389,7 @@ video {
   }
 
   .aboutUsParragraph1{
-    font-size: 1.5rem !important;
+    font-size: 1.6rem !important;
     padding: 6% 5% 4% 6%;
   }
 
@@ -3431,7 +3428,7 @@ video {
     }
 
   .proveedorsContent{
-    font-size: 0.9rem !important;
+    font-size: 1.2rem !important;
   }
 
   .proejctTittle{
@@ -3448,7 +3445,10 @@ video {
     max-width: 100%;
   }
 
-}
+  .footer-logo {
+    width: 160px !important;
+    height: 80px !important;
+  }
 
 @media (min-width: 501px) and (max-width: 650px) {
   .aboutUsVisionContent{
@@ -3517,15 +3517,6 @@ video {
   .imagesWithoutCarousel{
     display: inline-block !important;
   }
-
-  #contactUsFormWeb{
-    display: none !important;
-  }
-
-  #contactUsFormMobile{
-    display: block !important;
-  }
-
 
   #footerComponent{
     margin-top: 0 !important;
@@ -3596,5 +3587,28 @@ video {
     font-size: 2.0rem !important;
     line-height: 30px !important;
 
+  }
+}
+
+@media (max-width: 785px) {
+
+  .contactUsFormWeb{
+    display: none !important;
+  }
+
+  .contactUsFormMobile{
+    display: block !important;
+  }
+
+}
+
+@media (min-width: 786px) {
+
+  .contactUsFormWeb{
+    display: block !important;
+  }
+
+  .contactUsFormMobile{
+    display: none !important;
   }
 }

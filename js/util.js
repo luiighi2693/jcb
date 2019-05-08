@@ -46,6 +46,9 @@ let bannerArray = [];
 let isVideo = false;
 let screeenType = '';
 
+let instalaciones = false;
+let proyectos = false;
+
 function startTimeOut(){
     if (isVideo) {
         $( "#videoPreview" ).hover(
@@ -86,6 +89,32 @@ function showBanner() {
     bannerArray.forEach(number => {
         $('#banner'+number).css('display', 'block');
     });
+}
+
+function processInstalations(flag) {
+    if (!flag) {
+        $('#installation-1').addClass('hideElement');
+        $('#installation-2').addClass('hideElement');
+    } else {
+        $('#installation-1').removeClass('hideElement');
+        $('#installation-2').removeClass('hideElement');
+    }
+}
+
+function processProjects(flag) {
+    if (!flag) {
+        $('#project-1').addClass('hideElement');
+        $('#project-2').addClass('hideElement');
+        $('#project-3').addClass('hideElement');
+        $('#project-4').addClass('hideElement');
+        $('#project-5').addClass('hideElement');
+    } else {
+        $('#project-1').removeClass('hideElement');
+        $('#project-2').removeClass('hideElement');
+        $('#project-3').removeClass('hideElement');
+        $('#project-4').removeClass('hideElement');
+        $('#project-5').removeClass('hideElement');
+    }
 }
 
 function processMobile() {
@@ -139,6 +168,11 @@ function processMobile() {
 
         $('.nbs-flexisel-inner').css('display', 'block')
     }
+
+   processInstalations(false);
+    processProjects(false);
+
+   $('#header-nav-wrap').css('height', $(window).height());
 }
 
 function processWeb() {

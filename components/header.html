@@ -28,9 +28,9 @@
                 </div>
             </li>
 
-            <li class="hatunFont header-menu-responsive" style="    font-weight: bold;"><a class="hatunFont"  href="../nuestraplanta.html" title="testimonials" role="button" style="    font-weight: bold;">instalaciones</a></li>
-            <!--<li class="hatunFont header-menu-responsive" style="    font-weight: bold;"><a class="hatunFont" href="../nuestraplanta.html" style="font-weight: bold; padding: 6px 0 6px 20px;">nuestra planta</a></li>-->
-            <li class="hatunFont header-menu-responsive" style="    font-weight: bold;"><a class="hatunFont" href="../transporte.html" style="font-weight: bold; padding: 6px 0 6px 20px;">transporte &<br> maquinaria</a></li>
+            <li class="hatunFont header-menu-responsive" style="    font-weight: bold;"><span onclick="changeInstalations()" class="hatunFont"  title="testimonials" role="button" style="    font-weight: bold;">instalaciones</span></li>
+            <li id="installation-1" class="hatunFont header-menu-responsive" style="    font-weight: bold;"><a class="hatunFont" href="../nuestraplanta.html" style="font-weight: bold; padding: 6px 0 6px 20px;">nuestra planta</a></li>
+            <li id="installation-2" class="hatunFont header-menu-responsive" style="    font-weight: bold;"><a class="hatunFont" href="../transporte.html" style="font-weight: bold; padding: 6px 0 6px 20px;">transporte &<br> maquinaria</a></li>
 
 
             <!--<li class="hatunFont" style="    font-weight: bold;"><a class="hatunFont"  href="#" title="home">proyectos</a></li>-->
@@ -46,12 +46,12 @@
             </li>
 
 
-            <li class="hatunFont header-menu-responsive" style="    font-weight: bold;"><a class="hatunFont"  href="#" title="testimonials" role="button" style="    font-weight: bold;">proyectos</a></li>
-            <li class="hatunFont header-menu-responsive" style="    font-weight: bold;"><a class="hatunFont" href="../retail.html" style="font-weight: bold; padding: 6px 0 6px 20px; line-height: 5px;">retail</a></li>
-            <li class="hatunFont header-menu-responsive" style="    font-weight: bold;"><a class="hatunFont" href="../industrial.html" style="font-weight: bold; padding: 6px 0 6px 20px; line-height: 5px;">industrial</a></li>
-            <li class="hatunFont header-menu-responsive" style="    font-weight: bold;"><a class="hatunFont" href="../energiayminas.html" style="font-weight: bold; padding: 6px 0 6px 20px; line-height: 5px;">energía y minas</a></li>
-            <li class="hatunFont header-menu-responsive" style="    font-weight: bold;"><a class="hatunFont" href="../vial.html" style="font-weight: bold; padding: 6px 0 6px 20px; line-height: 5px;">vial</a></li>
-            <li class="hatunFont header-menu-responsive" style="    font-weight: bold;"><a class="hatunFont" href="../edificacion.html" style="font-weight: bold; padding: 6px 0 6px 20px; line-height: 5px;">edificación</a></li>
+            <li class="hatunFont header-menu-responsive" style="    font-weight: bold;"><span onclick="changeProjects()" class="hatunFont"  title="testimonials" role="button" style="    font-weight: bold;">proyectos</span></li>
+            <li id="project-1" class="hatunFont header-menu-responsive" style="    font-weight: bold;"><a class="hatunFont" href="../retail.html" style="font-weight: bold; padding: 6px 0 6px 20px; line-height: 15px; color: #01a657 !important;">retail</a></li>
+            <li id="project-2" class="hatunFont header-menu-responsive" style="    font-weight: bold;"><a class="hatunFont" href="../industrial.html" style="font-weight: bold; padding: 6px 0 6px 20px; line-height: 15px; color: rgb(0, 173, 239) !important;">industrial</a></li>
+            <li id="project-3" class="hatunFont header-menu-responsive" style="    font-weight: bold;"><a class="hatunFont" href="../energiayminas.html" style="font-weight: bold; padding: 6px 0 6px 20px; line-height: 15px; color: rgb(246, 142, 31)!important;">energía y minas</a></li>
+            <li id="project-4" class="hatunFont header-menu-responsive" style="    font-weight: bold;"><a class="hatunFont" href="../vial.html" style="font-weight: bold; padding: 6px 0 6px 20px; line-height: 15px; color: rgb(236, 29, 35) !important;">vial</a></li>
+            <li id="project-5" class="hatunFont header-menu-responsive" style="    font-weight: bold;"><a class="hatunFont" href="../edificacion.html" style="font-weight: bold; padding: 6px 0 6px 20px; line-height: 15px; color: rgb(162, 35, 142) !important;">edificación</a></li>
 
             <li class="hatunFont" style="    font-weight: bold;"><a class="hatunFont"  href="../cliente.html" title="home">clientes</a></li>
             <li class="hatunFont" style="    font-weight: bold;"><a class="hatunFont"  href="../proveedores.html" title="home">proveedores</a></li>
@@ -79,7 +79,9 @@
 
 <script src="../js/plugins.js"></script>
 <script src="../js/main.js"></script>
+<script src="../js/util.js"></script>
 <script>
+
     $('#dropDownParentList').on('mouseover', function() {
         $('#dropDownParentList2').removeClass('open');
         $('#dropDownParentList3').removeClass('open');
@@ -131,6 +133,26 @@
             $('#vialLink').css('cssText', 'color: rgb(236, 29, 35) !important');
         } else if (window.location.toString().match(/edificacion/)) {
             $('#edificacionLink').css('cssText', 'color: rgb(162, 35, 142) !important');
+        }
+    }
+
+    function changeInstalations(){
+        instalaciones = !instalaciones;
+        processInstalations(instalaciones);
+
+        if (instalaciones) {
+            proyectos = false;
+            processProjects(proyectos);
+        }
+    }
+
+    function changeProjects(){
+        proyectos = !proyectos;
+        processProjects(proyectos);
+
+        if (proyectos) {
+            instalaciones = false;
+            processInstalations(instalaciones);
         }
     }
 </script>
