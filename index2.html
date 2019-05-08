@@ -81,7 +81,7 @@
         <section id="nosotros311" style="position: relative; margin-top: 90px;display: inline-block;">
             <div class="iframe-wrapper">
                 <!--<iframe id="videoPreview" src="https://www.youtube.com/embed/eMoJ_P72t54?autoplay=1&rel=0&loop=1&playlist=eMoJ_P72t54" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
-                <iframe id="videoPreview" src="https://www.youtube.com/embed/eMoJ_P72t54?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=0&autoplay=1&loop=1&playlist=eMoJ_P72t54" frameborder="0" allow="autoplay"></iframe>
+                <iframe id="videoPreview" src="https://www.youtube.com/embed/eMoJ_P72t54?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=0&autoplay=1&loop=1&playlist=eMoJ_P72t54" frameborder="0" allow="autoplay" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
             </div>
             <div class="hatunVideoButton">
                 <button id="hideGiffButton" class="hatunFont" style="font-size: 1em; border: none; background-color: transparent;
@@ -119,16 +119,16 @@
 
         function checkIfResize() {
             if (isResize) {
-                let images = ['homeImage', 'aboutImage', 'misionImage', 'visionImage', 'visionImage2', 'visionImage3', 'videoPreview'];
+                let images = ['videoPreview'];
 
                 if (checkIfMobile()){
                     processMobile();
 
-                    images.forEach(image => {
-                        $('#'+image+'')
-                            .width($(window).width())
-                            .height( ( ($('#'+image+'').width() / 1920) *1080));
-                    });
+                    // images.forEach(image => {
+                    //     $('#'+image+'')
+                    //         .width($(window).width())
+                    //         .height( ( ($('#'+image+'').width() / 1920) *1080));
+                    // });
 
                 } else {
                     processWeb();
@@ -136,16 +136,23 @@
 
                     $('.home-scrolldown').css('display', 'block');
 
-                    images.forEach(image => {
-                        $('#'+image+'')
-                            .width($(window).width().toString())
-                            // .height($(window).height().toString() - 72);
-                            .height($(window).height().toString());
-                    });
+                    // images.forEach(image => {
+                    //     $('#'+image+'')
+                    //         .width($(window).width().toString())
+                    //         // .height($(window).height().toString() - 72);
+                    //         .height($(window).height().toString());
+                    // });
 
                     $('#dropDownParentList').css('display', 'inline-block');
                     $('#creditMobile').css('display', 'none');
                 }
+
+                images.forEach(image => {
+                    $('#'+image+'')
+                        .width($(window).width())
+                        .height( ($('#'+image+'').width() / 1.78) );
+                });
+
 
                 isResize = false;
             }
