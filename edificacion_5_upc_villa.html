@@ -191,9 +191,13 @@
 
         function checkIfResize() {
             if (isResize) {
-                let images = ['videoPreview', 'homeImage', 'aboutImage', 'misionImage','misionImage2','misionImage3', 'misionImage4', 'visionImage', 'visionImage2', 'visionImage3'];
+                let images = ['homeImage', 'aboutImage', 'misionImage','misionImage2','misionImage3', 'misionImage4', 'visionImage', 'visionImage2', 'visionImage3'];
 
                 let images2 = ['carousel1', 'carousel2', 'carousel3', 'carousel4', 'carousel5','carousel6', 'carousel7','carousel8'];
+
+                $('#videoPreview')
+                    .width($(window).width())
+                    .height( ($('#videoPreview').width() / 1.78) );
 
                 if (checkIfMobile()){
                     processMobile();
