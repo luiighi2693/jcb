@@ -3552,6 +3552,15 @@ video {
   #footerComponent{
     margin-top: 0 !important;
   }
+
+
+  #videoPreviewIntro{
+    display: none !important;
+  }
+
+  #imagePreviewIntro{
+    display: block !important;
+  }
 }
 
 
@@ -3565,6 +3574,14 @@ video {
   }
 
   .ourPlantParragraph3 {
+    display: none !important;
+  }
+
+  #videoPreviewIntro{
+    display: block !important;
+  }
+
+  #imagePreviewIntro{
     display: none !important;
   }
 }

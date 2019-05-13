@@ -135,14 +135,16 @@ function processMobile(screenType = null) {
 
         if (screenType === 'intro'){
             console.log('intro');
-            $('#footer-main-block').height($('html body').height() - 40 - $('#videoPreview').height());
+            setTimeout(function(){
+                $('#footer-main-block').height($('html body').height() - 40 - $('#videoPreviewIntro').height());
 
-            $('#footer-row-responsive-block')
-                .css('position', 'absolute')
-                .css('top', '50%')
-                .css('left', '50%')
-                .css('transform', 'translate(-50%, -50%)')
-                .css('-ms-transform', 'translate(-50%, -50%)');
+                $('#footer-row-responsive-block')
+                    .css('position', 'absolute')
+                    .css('top', '50%')
+                    .css('left', '50%')
+                    .css('transform', 'translate(-50%, -50%)')
+                    .css('-ms-transform', 'translate(-50%, -50%)');
+            }, 200);
         } else {
             $('#footer-main-block').css('height', 'auto');
 
