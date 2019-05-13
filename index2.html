@@ -75,10 +75,10 @@
                 <!--height: 3.4rem;line-height: calc(3.4rem - .6rem);padding: 0 3rem;">SALTAR</button>-->
             <!--</div>-->
         <!--</section>-->
-        <section id="nosotros31" class="proejctTittleDetail imagesWithoutCarousel">
+        <section id="nosotros31-intro" class="proejctTittleDetail imagesWithoutCarousel">
         </section>
 
-        <section id="nosotros311" style="position: relative; margin-top: 90px;display: inline-block;">
+        <section id="nosotros311-intro" style="position: relative; margin-top: 90px;display: inline-block;">
             <div class="iframe-wrapper">
                 <!--<iframe id="videoPreview" src="https://www.youtube.com/embed/eMoJ_P72t54?autoplay=1&rel=0&loop=1&playlist=eMoJ_P72t54" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
                 <iframe id="videoPreview" src="https://www.youtube.com/embed/eMoJ_P72t54?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=0&autoplay=1&loop=1&playlist=eMoJ_P72t54" frameborder="0" allow="autoplay" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -122,7 +122,7 @@
                 let images = ['videoPreview'];
 
                 if (checkIfMobile()){
-                    processMobile();
+                    processMobile('intro');
 
                     // images.forEach(image => {
                     //     $('#'+image+'')
@@ -165,7 +165,7 @@
         $(document).ready(function(e) {
             $('#headerComponent').load('components/header.html');
             $('#footerComponent').load('components/footer.html');
-            screeenType = 'intro';
+            // screeenType = 'intro';
 
             // $('#homeArea').on('click', function() {
             //     goTo('aboutUs');
@@ -206,20 +206,20 @@
             // $('#videoPreview')[0].play();
 
 
-            setInterval(() => {
-                var promise = $('#videoPreview').get(0).play();
-
-                if (promise !== undefined) {
-                    promise.then(_ => {
-                        // Autoplay started!
-                        console.log('Autoplay started!')
-                    }).catch(error => {
-                        // Autoplay was prevented.
-                        // Show a "Play" button so that user can start playback.
-                        console.log('Autoplay was prevented.')
-                    });
-                }
-            }, 3000)
+            // setInterval(() => {
+            //     var promise = $('#videoPreview').get(0).play();
+            //
+            //     if (promise !== undefined) {
+            //         promise.then(_ => {
+            //             // Autoplay started!
+            //             console.log('Autoplay started!')
+            //         }).catch(error => {
+            //             // Autoplay was prevented.
+            //             // Show a "Play" button so that user can start playback.
+            //             console.log('Autoplay was prevented.')
+            //         });
+            //     }
+            // }, 3000)
         });
 
     </script>

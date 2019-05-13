@@ -44,7 +44,7 @@ let bannerTimeOut = null;
 let projectTimeOut = null;
 let bannerArray = [];
 let isVideo = false;
-let screeenType = '';
+// let screeenType = '';
 
 let instalaciones = false;
 let proyectos = false;
@@ -117,7 +117,7 @@ function processProjects(flag) {
     }
 }
 
-function processMobile() {
+function processMobile(screenType = null) {
 
     if ($('html body').width() >= 642 || $('html body').width() <=767) {
         console.log('hide carousel');
@@ -133,7 +133,8 @@ function processMobile() {
 
         $('.nbs-flexisel-inner').css('display', 'none');
 
-        if (screeenType === 'intro'){
+        if (screenType === 'intro'){
+            console.log('intro');
             $('#footer-main-block').height($('html body').height() - 40 - $('#videoPreview').height());
 
             $('#footer-row-responsive-block')

@@ -2925,14 +2925,9 @@ footer ul a:visited {
   }
 }
 
-@media (max-width: 500px) {
-  #header{
-    height: 40px !important;
-  }
-  .header-menu-toggle{
-    top: 0 !important;
-  }
-}
+/*@media (max-width: 500px) {*/
+ /**/
+/*}*/
 
 video {
   width:100%;
@@ -3078,6 +3073,13 @@ video {
   .hatunCasaFontTitle2 {
     font-size: 3.5rem;
   }
+
+  #header{
+    height: 40px !important;
+  }
+  .header-menu-toggle{
+    top: 0 !important;
+  }
 }
 
 .jcbCustomBackground1 {
@@ -3149,6 +3151,19 @@ video {
   .header-menu-responsive{
     display: block !important;
   }
+
+
+  #nosotros311-intro {
+    margin-top: 0 !important;
+  }
+
+  #nosotros31-intro {
+    margin-top: 40px !important;
+  }
+
+  #nosotros31 {
+    margin-top: 40px !important;
+  }
 }
 
 .footer-main-block {
@@ -3158,9 +3173,9 @@ video {
   position: relative;
 }
 
-#nosotros31{
-  margin-top: 90px !important;
-}
+/*#nosotros31{*/
+  /*margin-top: 90px !important;*/
+/*}*/
 
 .aboutUsCarouselLabel{
   margin-top: 90px !important;
@@ -3369,78 +3384,78 @@ video {
     margin-top: 40px !important;
   }
 
-  .aboutUsCarouselLabel{
+  .aboutUsCarouselLabel {
     margin-top: 0 !important;
     font-size: 2.25rem;
   }
 
-  .aboutUsDesignLabel{
+  .aboutUsDesignLabel {
     top: 40%;
     left: 20% !important;
   }
 
-  .aboutUsVisionContent{
+  .aboutUsVisionContent {
     top: 40%;
     padding: 1% !important;
   }
 
-  .aboutUsAboutUsLabel{
+  .aboutUsAboutUsLabel {
     font-size: 2.25rem;
   }
 
-  .aboutUsParragraph1{
+  .aboutUsParragraph1 {
     font-size: 1.6rem !important;
     padding: 6% 5% 4% 6%;
   }
 
-  .ourPlantParragraph1{
+  .ourPlantParragraph1 {
     font-size: 1.5rem !important;
     padding: 6% 5% 4% 6%;
   }
 
-  .aboutUsDesignLabelLine{
+  .aboutUsDesignLabelLine {
     margin-bottom: 0 !important;
   }
 
-  .aboutUsDesignLabelSubContent{
+  .aboutUsDesignLabelSubContent {
     font-size: 1.0rem !important;
   }
 
-    .aboutUsSpecialistContent {
-        font-size: 0.8rem !important;
-    }
+  .aboutUsSpecialistContent {
+    font-size: 0.8rem !important;
+  }
 
-    .aboutUsSpecialistBullet {
-      margin-right: 10px !important;
-    }
+  .aboutUsSpecialistBullet {
+    margin-right: 10px !important;
+  }
 
-    .aboutUsSpecialistBullet2 {
-      margin-right: 10px !important;
-    }
+  .aboutUsSpecialistBullet2 {
+    margin-right: 10px !important;
+  }
 
-    .aboutUsVisionTittle {
-      font-size: 2.25rem !important;
-    }
+  .aboutUsVisionTittle {
+    font-size: 2.25rem !important;
+  }
 
-    .aboutUsVisionParragraph {
-      font-size: 1.2rem !important;
-      margin-right: 45% !important;
-    }
+  .aboutUsVisionParragraph {
+    font-size: 1.1rem !important;
+    margin-right: 45% !important;
+  }
 
-  .proveedorsContent{
+  .proveedorsContent {
     font-size: 1.2rem !important;
   }
 
-  .proejctTittle{
+  .proejctTittle {
     font-size: 4rem !important;
   }
 
-  .proejctTittle2{
+  .proejctTittle2 {
     font-size: 3rem !important;
   }
 
-  #nosotros311{
-     margin-top: 0 !important;
+  #nosotros311 {
+    margin-top: 0 !important;
     width: 100%;
     max-width: 100%;
   }
@@ -3450,6 +3465,10 @@ video {
     height: 80px !important;
   }
 
+  .submitButtonResponsive {
+    padding: 5% !important;
+  }
+}
 @media (min-width: 501px) and (max-width: 650px) {
   .aboutUsVisionContent{
     font-size: 1.75rem;
