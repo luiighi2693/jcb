@@ -3164,6 +3164,10 @@ video {
   #nosotros31 {
     margin-top: 40px !important;
   }
+
+  /*#nosotros32 {*/
+    /*margin-top: 0 !important;*/
+  /*}*/
 }
 
 .footer-main-block {
@@ -3379,6 +3383,10 @@ video {
   display: none !important;
 }
 
+.carouselComponentTittle{
+  display: block;
+}
+
 @media (max-width: 500px) {
   #nosotros31 {
     margin-top: 40px !important;
@@ -3530,6 +3538,10 @@ video {
   }
 
   .carouselComponent{
+    margin-top: 0 !important;
+  }
+
+  .carouselComponentTittle{
     display: none !important;
   }
 
