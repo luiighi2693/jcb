@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6ac8ab2c-1970-429c-bef1-7bac27ad53b2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuestraplanta.html" beforeDir="false" afterPath="$PROJECT_DIR$/nuestraplanta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nosotros.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+            <state relative-caret-position="127">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -75,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nuestraplanta.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="60" column="123" selection-start-line="60" selection-start-column="123" selection-end-line="60" selection-end-column="123" />
+            <state relative-caret-position="155">
+              <caret line="51" column="26" lean-forward="true" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
               <folding>
                 <element signature="n#style#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -154,8 +154,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="3549" column="3" selection-start-line="3549" selection-start-column="3" selection-end-line="3549" selection-end-column="3" />
+            <state relative-caret-position="449">
+              <caret line="3569" column="3" selection-start-line="3569" selection-start-column="3" selection-end-line="3569" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -164,7 +164,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>proejctTittleDetail</find>
       <find>imagesWithoutCarousel</find>
       <find>aboutUsSpecialistContent</find>
       <find>youtube.com</find>
@@ -194,6 +193,7 @@
       <find>carouselComponent</find>
       <find>iframe-wrapper</find>
       <find>videoPreview</find>
+      <find>aboutUsVisionParragraph</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -248,11 +248,11 @@
         <option value="$PROJECT_DIR$/edificacion_6_cerramiento_estadio_complejo_deportivo_panamericano.html" />
         <option value="$PROJECT_DIR$/edificacion_7_techos_complejo_deportivo_panamericanos.html" />
         <option value="$PROJECT_DIR$/index2.html" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/js/util.js" />
-        <option value="$PROJECT_DIR$/nosotros.html" />
         <option value="$PROJECT_DIR$/contacto.html" />
         <option value="$PROJECT_DIR$/nuestraplanta.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/nosotros.html" />
       </list>
     </option>
   </component>
@@ -428,14 +428,7 @@
       <workItem from="1557320662942" duration="18492000" />
       <workItem from="1557368915029" duration="4224000" />
       <workItem from="1557456455289" duration="149000" />
-      <workItem from="1557755156648" duration="15742000" />
-    </task>
-    <task id="LOCAL-00001" summary="nosotros dos imagen">
-      <created>1544838229377</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1544838229377</updated>
+      <workItem from="1557755156648" duration="17042000" />
     </task>
     <task id="LOCAL-00002" summary="ajuste de fuentes, y cambio de tamaño de imagenes">
       <created>1545071404261</created>
@@ -773,11 +766,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557779734735</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="ajustes mobile 5">
+      <created>1557779818064</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1557779818066</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="272911000" />
+    <option name="totallyTimeSpent" value="274211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -877,7 +877,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="cambios 4" />
     <MESSAGE value="cambios 5" />
     <MESSAGE value="cambios en video, e imagen de quienes somos" />
     <MESSAGE value="cambios en imagenes" />
@@ -902,7 +901,8 @@
     <MESSAGE value="ajustes mobile 2" />
     <MESSAGE value="ajustes mobile 3" />
     <MESSAGE value="ajustes mobile 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajustes mobile 4" />
+    <MESSAGE value="ajustes mobile 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajustes mobile 5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cliente.html">
@@ -2148,13 +2148,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="3549" column="3" selection-start-line="3549" selection-start-column="3" selection-end-line="3549" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/util.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
@@ -2208,8 +2201,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nosotros.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        <state relative-caret-position="127">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
           <folding>
             <element signature="n#style#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -2232,10 +2225,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="3569" column="3" selection-start-line="3569" selection-start-column="3" selection-end-line="3569" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/nuestraplanta.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="60" column="123" selection-start-line="60" selection-start-column="123" selection-end-line="60" selection-end-column="123" />
+        <state relative-caret-position="155">
+          <caret line="51" column="26" lean-forward="true" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />

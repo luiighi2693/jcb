@@ -3288,6 +3288,7 @@ video {
   margin-right: 40%;
   font-weight: bold;
   line-height: initial;
+  text-align: justify;
 }
 
 .outPlantParragraph2{
@@ -3448,6 +3449,7 @@ video {
   .aboutUsVisionParragraph {
     font-size: 1.1rem !important;
     margin-right: 45% !important;
+    text-align: left;
   }
 
   .proveedorsContent {
@@ -3515,6 +3517,7 @@ video {
 
   .aboutUsVisionParragraph {
     font-size: 1.2rem !important;
+    text-align: left;
   }
 
 }
@@ -3560,6 +3563,11 @@ video {
 
   #imagePreviewIntro{
     display: block !important;
+  }
+
+
+  .aboutUsVisionParragraph {
+    text-align: left;
   }
 }
 
@@ -3658,5 +3666,11 @@ video {
 
   .contactUsFormMobile{
     display: none !important;
+  }
+}
+
+@media (min-width: 651px) and (max-width: 800px) {
+  .aboutUsDesignLabel{
+    font-size: 3.5rem !important;
   }
 }
