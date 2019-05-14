@@ -3448,8 +3448,17 @@ video {
 
   .aboutUsVisionParragraph {
     font-size: 1.1rem !important;
-    margin-right: 45% !important;
+    margin-right: 35% !important;
     text-align: left;
+  }
+
+  .aboutUsVisionParragraphImage {
+    width: 90% !important;
+  }
+
+  .aboutUsVisionParragraphContainer {
+    flex-direction: row-reverse;
+    background: white;
   }
 
   .proveedorsContent {
